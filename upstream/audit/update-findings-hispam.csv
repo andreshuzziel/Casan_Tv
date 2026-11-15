@@ -272,11 +272,11 @@ Lifetime Latin America (1080p),Entertainment,http://138.121.15.230:9002/LIFETIME
 Limon TV (1080p) [Not 24/7],General,http://k4.usastreams.com/limontv1/limontv1/playlist.m3u8,no-https
 Marca TV (1080p),General,http://200.7.219.221:8088/live/livetv/index.m3u8,no-https;ip-directa
 Maria Vision (1080p),Religious,http://200.122.223.13:55000/play/a022/index.m3u8,no-https;ip-directa
-Maxcine 2 (720p),Movies,https://live20.bozztv.com/giatvplayout7/giatv-209163/playlist.m3u8,vod-no-autorizado
-Maxcine (720p),Movies,https://live20.bozztv.com/giatvplayout7/giatv-208138/playlist.m3u8,vod-no-autorizado
-Maxcine Comedy (720p),Movies,https://live20.bozztv.com/giatvplayout7/giatv-208730/playlist.m3u8,vod-no-autorizado
-Maxcine Family (720p),Movies,https://live20.bozztv.com/giatvplayout7/giatv-208817/playlist.m3u8,vod-no-autorizado
-Maxcine Kids (720p),Movies,https://live20.bozztv.com/giatvplayout7/giatv-209909/playlist.m3u8,vod-no-autorizado
+Maxcine 2 (720p),Movies,https://183.giatvcdn.com/giatvplayout7/giatv-209163/playlist.m3u8,vod-no-autorizado
+Maxcine (720p),Movies,https://183.giatvcdn.com/giatvplayout7/giatv-208138/playlist.m3u8,vod-no-autorizado
+Maxcine Comedy (720p),Movies,https://183.giatvcdn.com/giatvplayout7/giatv-208730/playlist.m3u8,vod-no-autorizado
+Maxcine Family (720p),Movies,https://183.giatvcdn.com/giatvplayout7/giatv-208817/playlist.m3u8,vod-no-autorizado
+Maxcine Kids (720p),Movies,https://183.giatvcdn.com/giatvplayout7/giatv-209909/playlist.m3u8,vod-no-autorizado
 Maxivision Canal 8 (1080p),General,http://181.119.97.124:8080/play/a00w/index.m3u8,no-https;ip-directa
 MC (1080p),General,http://168.196.127.137:6001/play/a070/index.m3u8,no-https;ip-directa
 MCI Television (1080p),Family;General;Movies,https://video.ejeserver.com/live/mcitelevision.m3u8,vod-no-autorizado
@@ -423,7 +423,6 @@ Star Channel (Colombia) (1080p),Movies;Series,http://190.61.47.54:8000/play/a035
 Star Channel Latin America (1080p),Movies;Series,http://15.204.246.24:8080/STARCHANNELHD/index.m3u8,no-https;ip-directa;vod-no-autorizado
 Star Channel Latin America South,Movies;Series,http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/51.m3u8,no-https;ip-directa;vod-no-autorizado
 Star Trek LatAm,Series,https://jmp2.uk/plu-5ec5761aabe4690007f6e047.m3u8,vod-no-autorizado
-STS International (576p),Undefined,http://178.134.1.158:8081/CTC/index.m3u8,no-https;ip-directa
 Studio Universal Latin America (1080p),Undefined,http://15.204.246.24:8080/StudioUniversalHD/index.m3u8,no-https;ip-directa;tv-pago/adulto
 Studio Universal Latin America Colombia (1080p),Undefined,http://45.171.64.30:2000/play/a04o/index.m3u8,no-https;ip-directa;tv-pago/adulto
 Studio Universal Latin America South,Undefined,http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/53.m3u8,no-https;ip-directa;tv-pago/adulto
@@ -467,7 +466,7 @@ Telenord (Argentina) (1080p) [Not 24/7],Undefined,http://www.coninfo.net:1935/pr
 TeleNostalgia (1080p),Classic,http://38.134.250.110:8000/play/a01q/index.m3u8,no-https;ip-directa
 Telepacifico (1080p),General,http://138.121.15.230:9002/TELEPACIFICO/index.m3u8,no-https;ip-directa
 Telesur (1080p),News,http://181.78.211.244:8005/play/a0cc/index.m3u8,no-https;ip-directa
-Teletica 7 (1080p),General,http://190.61.101.11:7050/play/a07t/index.m3u8,no-https;ip-directa
+Teletica 7 (720p) [Not 24/7],General,http://181.119.177.253:8000/play/a0da,no-https;ip-directa
 Teleunion (1080p),General,http://server2grupocam.com:1945/teleunion/TU/playlist.m3u8,no-https
 Televen (1080p),General,http://38.134.250.110:8000/play/a02i/index.m3u8,no-https;ip-directa
 Television Publica (1080p),General,http://190.128.214.97:64333/play/a008/index.m3u8,no-https;ip-directa

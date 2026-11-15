@@ -212,6 +212,8 @@ ENT Móvies,Cine / Películas,https://cdn.40mediagroup.com/live/c7eds/ENT_Movies
 ENT Drama,Cine / Películas,https://cdn.40mediagroup.com/live/c7eds/ENT_Drama/SA_LIVE_hls_enc/master.m3u8,vod-no-autorizado
 ENT Classic,Cine / Películas,https://cdn.40mediagroup.com/live/c7eds/ENT_Classics/SA_LIVE_hls_enc/master.m3u8,vod-no-autorizado
 ENT Life,Cine / Películas,https://cdn.40mediagroup.com/live/c7eds/ENT_Life/SA_LIVE_hls_enc/master.m3u8,vod-no-autorizado
++ Movie Accion,Cine / Películas,https://live-evg13.tv360.bitel.com.pe/bitel/+movieaccion/playlist.m3u8,vod-no-autorizado
+Fillka TV,Cine / Películas,https://live-evg5.tv360.bitel.com.pe/bitel/fillka/playlist.m3u8,vod-no-autorizado
 FMTV Mundo (Cadena Internacional),Cine / Películas,https://s2.tvdatta.com:3307/live/fmtvmatrizlive.m3u8,tv-pago/adulto;vod-no-autorizado
 Ipersonica,Cine / Películas,https://183.giatvcdn.com/ssh101/ssh101/ipersonica/playlist.m3u8,vod-no-autorizado
 Canal Telemax RD [No 24/7] (Rep. Dominicana),Cine / Películas,https://edge.essastream.com/telemax/index.m3u8,vod-no-autorizado
@@ -236,6 +238,7 @@ Popcorn Central,Cine / Películas,https://stream.ads.ottera.tv/playlist.m3u8?net
 Cindie Lite,Cine / Películas,https://cc-hqw8u5r1nshjc.akamaized.net/scheduler/scheduleMaster/387.m3u8,vod-no-autorizado
 Runtime Español,Cine / Películas,https://run-rt-uh-roku.otteravision.com/run/rt_uh/rt_uh.m3u8,vod-no-autorizado
 Bjgtjme Películas Gratis,Cine / Películas,https://76af1d7e277b46a58a41c188c3ea4117.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/Samsung-es_BjgtjmePeliculasGratis/playlist.m3u8,vod-no-autorizado
+Creo Latino,Cine / Películas,https://live-evg5.tv360.bitel.com.pe/bitel/CreoLatinoSRT/playlist.m3u8,vod-no-autorizado
 Cine Estrella,Cine / Películas,https://aegis-cloudfront-1.tubi.video/e1921b21-6cd6-4b21-bb46-832cbb74485c/playlist.m3u8,vod-no-autorizado
 Latino Classic TV,Cine / Películas,https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/4d419a88-a62c-496f-b8a1-984e746f8259/manifest.m3u8,vod-no-autorizado
 Cine en Español,Cine / Películas,https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3b76-64e6e46f27a915f9b5184e9a.m3u8?X-Plex-Token=aodMBFfiWQ9a_wrQtBsJ,vod-no-autorizado
@@ -243,6 +246,7 @@ Todo Cine,Cine / Películas,https://aegis-cloudfront-1.tubi.video/be9224ff-0bff-
 Cine de Horror,Cine / Películas,https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3b76-64e6e2f04a5e9b4cedc6d52b.m3u8?x-plex-token=aodMBFfiWQ9a_wrQtBsJ,vod-no-autorizado
 Cine de Terror Español,Cine / Películas,https://183.giatvcdn.com/giatvplayout7/giatv-211420/playlist.m3u8,vod-no-autorizado
 TerrorTV,Cine / Películas,https://183.giatvcdn.com/giatvplayout7/giatv-212244/playlist.m3u8,vod-no-autorizado
+Movie Terror,Cine / Películas,https://live-evg13.tv360.bitel.com.pe/bitel/movieterror/playlist.m3u8,vod-no-autorizado
 Suspenso (YouTube),Cine / Películas,https://www.youtube.com/watch?v=oxX_new26jw,vod-no-autorizado
 ACCIÓN SIN PARAR (YouTube),Cine / Películas,https://www.youtube.com/watch?v=oR3zVZsUR5g,vod-no-autorizado
 MyTime Movie Network (México)(ES),Cine / Películas,https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8,vod-no-autorizado
@@ -383,8 +387,8 @@ De Película HD [Opc.1],Cine / Películas Premium,http://181.119.177.253:8000/pl
 De Película SD (Opc.2),Cine / Películas Premium,http://205.235.6.29:8000/play/a0z7/index.m3u8?hls,no-https;ip-directa;vod-no-autorizado
 De Película HD (Opc.3),Cine / Películas Premium,http://45.5.118.152:8000/play/a089/index.m3u8,no-https;ip-directa;vod-no-autorizado
 CINE MEXICANO,Cine / Películas Premium,http://190.61.101.11:7050/play/a08x/index.m3u8?hls,no-https;ip-directa;vod-no-autorizado
-CINE MEXICANO [Opc.2],Cine / Películas Premium,http://138.94.3.106:8000/play/a00p/index.m3u8,no-https;ip-directa;vod-no-autorizado
-CINE MEXICANO [Opc.3],Cine / Películas Premium,http://181.79.86.130:8000/play/a00p/index.m3u8,no-https;ip-directa;vod-no-autorizado
+CINE MEXICANO [Opc.2],Cine / Películas Premium,http://45.5.117.57:8200/play/a0i3/index.m3u8,no-https;ip-directa;vod-no-autorizado
+CINE MEXICANO [Opc.3],Cine / Películas Premium,http://168.228.44.241:9997/play/a08d/index.m3u8,no-https;ip-directa;vod-no-autorizado
 Claro Cinema,Cine / Películas Premium,http://45.182.22.53:8000/play/a0b1/index.m3u8,no-https;ip-directa;vod-no-autorizado
 Claro Cinema [Opc.2],Cine / Películas Premium,http://181.79.87.130:8000/play/a0bh/index.m3u8,no-https;ip-directa;vod-no-autorizado
 Claro Cinema [Opc.3],Cine / Películas Premium,http://186.33.0.57:8000/play/a043/index.m3u8,no-https;ip-directa;vod-no-autorizado
@@ -498,6 +502,7 @@ El Chavo TV,Entretenimiento / Cine / Series,https://183.giatvcdn.com/giatvplayou
 Chespirito TV,Entretenimiento / Cine / Series,https://183.giatvcdn.com/giatvplayout7/giatv-211111/playlist.m3u8,vod-no-autorizado
 Sicarios y Acción (YouTube),Entretenimiento / Cine / Series,https://www.youtube.com/watch?v=fTi3aTD7JxM,vod-no-autorizado
 Rastros TV (Youtube),Entretenimiento / Cine / Series,https://www.youtube.com/watch?v=YGKZhWwFKaM,vod-no-autorizado
+EPA TV,Entretenimiento / Cine / Series,https://live-evg10.tv360.bitel.com.pe/bitel/epatv/playlist.m3u8,vod-no-autorizado
 Apanines TV,Entretenimiento / Cine / Series,https://183.giatvcdn.com/ssh101/ssh101/apaninestv2025/playlist.m3u8,vod-no-autorizado
 PTV OnLine,Entretenimiento / Cine / Series,https://183.giatvcdn.com/giatv/giatv-PTVonLINE/PTVonLINE/playlist.m3u8,vod-no-autorizado
 Del Este TV HD,Entretenimiento / Cine / Series,https://183.giatvcdn.com/giatv/giatv-DELESTEENVIVO/DELESTEENVIVO/playlist.m3u8,vod-no-autorizado
