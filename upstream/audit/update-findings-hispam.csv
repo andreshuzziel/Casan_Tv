@@ -15,7 +15,6 @@ Allegro HD (1080p),Music,http://158.172.155.130:8000/play/a0dn/index.m3u8,no-htt
 AlternaTV (720p) [Not 24/7],Culture;Documentary;Entertainment;General;Movies;Music,https://tv.alterna.ar/stream/hls/live.m3u8,vod-no-autorizado
 AMC Latin America (1080p),Movies,http://15.204.246.24:8080/AMCHD/index.m3u8,no-https;ip-directa;tv-pago/adulto;vod-no-autorizado
 AMC Series Latin America (1080p),Series,http://45.171.64.30:6060/play/a005/index.m3u8,no-https;ip-directa;tv-pago/adulto;vod-no-autorizado
-America Paraguay,General,http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/83.m3u8,no-https;ip-directa
 America Television (1080p),General,http://190.93.224.42/AMERICA-TV/index.m3u8,no-https;ip-directa
 Amigos TV Chiquimula (1080p),Religious,http://45.166.93.156:9999/play/a0j2/index.m3u8,no-https;ip-directa
 Aneflix Live (720p),Movies,https://stream-cdn-iad.vaughnsoft.net/play/live_a_neflix01.flv,vod-no-autorizado
@@ -126,6 +125,7 @@ CNN en Espanol (1080p),News,https://amg00803-cnnfast-amg00803c3-lg-es-5477.playo
 CNN International Latin America (1080p),News,http://168.228.44.241:9997/play/a073/index.m3u8,no-https;ip-directa;tv-pago/adulto
 CNN International North America (1080p),News,https://d2sybdl23b9psq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bocx3i7bjz0dg/CNNFAST_GB.m3u8,tv-pago/adulto
 Colombeia (576p),Education,http://200.59.191.177:8000/play/a0la/index.m3u8,no-https;ip-directa
+Comedy Central Latin America (1080p),Comedy,http://190.93.224.42/COMEDY-CENTRAL/index.m3u8,no-https;ip-directa
 Corazon TV (720p),Music,http://181.79.86.130:8000/play/a05d/index.m3u8,no-https;ip-directa
 Cosmos Tv,Movies;News,https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8,vod-no-autorizado
 Cosmos Tv SD,Movies;News,https://canaletaplus.com:3922/live/cosmoslive.m3u8,vod-no-autorizado
@@ -136,7 +136,6 @@ CVA TV (480p) [Not 24/7],General,http://190.124.161.21:8086/cvatv/live.m3u8,no-h
 CVC (1080p),Religious,http://15.204.246.24:8080/CVCHD/index.m3u8,no-https;ip-directa
 De Pelicula Latin America (1080p),Movies,http://15.204.196.147:22880/RECEPCION-DPELICULA-LATAM-FHD/video.m3u8,no-https;ip-directa;vod-no-autorizado
 De Pelicula Plus (1080p),Movies,http://200.115.120.1:8000/play/ca030/index.m3u8,no-https;ip-directa;vod-no-autorizado
-Deportes TVC (1080p),Sports,http://162.19.255.233:8080/play/UNbAl57p9hXZClOu56FCTYXmD-MOS3u5IUkeXPpBt80/m3u8,no-https;ip-directa
 DeporTV (1080p),Sports,http://158.172.155.130:8000/play/a09y/index.m3u8,no-https;ip-directa
 DHE (1080p),Movies,http://15.204.246.24:8080/DHEHD/index.m3u8,no-https;ip-directa;vod-no-autorizado
 Discovery Channel Latin America (1080p),Entertainment,http://45.171.64.30:6060/play/a032/index.m3u8,no-https;ip-directa;tv-pago/adulto
@@ -212,7 +211,6 @@ Fox Sports (1080p),Sports,http://138.59.227.20:8000/play/a085/index.m3u8,no-http
 Fox Sports HD,Sports,http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/1552.m3u8,no-https;ip-directa;tv-pago/adulto
 France 24 English HD (1080p),News,http://nmk.ioapk.com:5050/4gtv-live146/index.m3u8,no-https
 FuegoTV (1080p),News,http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/fuegotv.stream/playlist.m3u8,no-https
-FunBox,Kids,http://186.148.196.100:8000/play/a00d,no-https;ip-directa
 FUTV (1080p),Sports,http://45.228.234.9:8000/play/a06o/index.m3u8,no-https;ip-directa
 FX Latin America (1080p),Entertainment,http://15.204.246.24:8080/FXHD/index.m3u8,no-https;ip-directa
 Gamavision (1080p),General,http://45.224.97.181:9999/Gamavision/index.m3u8,no-https;ip-directa
