@@ -178,10 +178,12 @@ Venevisión [V2],Venezuela,http://200.59.191.177:8000/play/a0li/index.m3u8?hls,n
 VE Plus [Opc.2],Venezuela,http://181.78.211.244:8000/play/a04m/index.m3u8,no-https;ip-directa
 Telearagua,Venezuela,http://45.173.198.59:8080/hls/nginx3.m3u8,no-https;ip-directa
 Bolivisión LPZ (La Paz),Bolivia,http://158.172.155.130:8000/play/a0e8/index.m3u8,no-https;ip-directa
-Unitel SD [No 24/7][Opc.2],Bolivia,http://200.59.191.177:8000/play/a0md/index.m3u8?hls,no-https;ip-directa
+Unitel LPZ SD [No 24/7],Bolivia,http://190.181.61.93:8000/play/a00t/index.m3u8,no-https;ip-directa
+Unitel SCZ SD [No 24/7],Bolivia,http://190.181.61.93:8000/play/a00r/index.m3u8,no-https;ip-directa
 Red ADvenir TV,Bolivia,http://streamer1.streamhost.org:1935/salive/GMIredadvenirm/playlist.m3u8,no-https
 XTOTV,Bolivia,http://190.104.15.135/0.ts,no-https;ip-directa
-Bolivia TV,Bolivia,http://200.59.191.177:8000/play/a0m4/index.m3u8?hls,no-https;ip-directa
+Bolivia TV [Opc.2],Bolivia,http://158.172.155.130:8000/play/a0e4/index.m3u8,no-https;ip-directa
+Bolivia TV [Opc.3],Bolivia,http://190.181.61.93:8000/play/a001/index.m3u8,no-https;ip-directa
 Antena 3,España,http://179.60.224.196:8000/play/a0f2/index.m3u8,no-https;ip-directa
 Antena 3[Opc.2],España,http://181.224.255.210:8001/play/a0rc/index.m3u8?hls,no-https;ip-directa
 NORTEvisión,España,http://amaru.dyndns.org:8870/0.m3u8,no-https
@@ -673,7 +675,7 @@ TLC HD [Opc.3],Documentales y Cultura,http://181.225.190.242:8000/play/a03e,no-h
 CNN en Español (Internacional / América),Informativos,https://amg00803-cnnfast-amg00803c3-lg-es-5477.playouts.now.amagi.tv/playlist/amg00803-cnnfastinternational-cnnesponal-lges/playlist.m3u8,tv-pago/adulto
 CNN en Español (Internacional / América) [Opc.2],Informativos,http://181.143.237.211:85/tsfile/live/1083_1.m3u8?key=txiptv&playlive=1&authid=0,no-https;ip-directa;tv-pago/adulto
 Exitosa TV (Perú - Nacional)[Opc.2],Informativos,http://181.224.255.210:8001/play/a0sm/index.m3u8?hls,no-https;ip-directa
-RPP TV (Perú - Nacional),Informativos,http:\\190.108.83.69:8000\play\a01a\index.m3u8,no-https
+RPP TV (Perú - Nacional),Informativos,http://190.108.83.69:8000/play/a01a/index.m3u8,no-https;ip-directa
 RPP TV HD (Perú - Nacional)[Opc.2],Informativos,http://181.224.255.210:8001/play/a0r8/index.m3u8?hls,no-https;ip-directa
 RPP TV HD (Perú - Nacional)[Opc.3],Informativos,http://190.108.83.69:8000/play/a01a/index.m3u8,no-https;ip-directa
 RTU [No 24/7] (Quito - Ecuador),Informativos,http://205.235.6.29:8000/play/a0ma/index.m3u8?hls,no-https;ip-directa
