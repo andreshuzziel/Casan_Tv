@@ -227,11 +227,11 @@ MAX2 TV,Cine / Películas,https://183.giatvcdn.com/giatvplayout7/giatv-209163/pl
 MAXC Family TV,Cine / Películas,https://183.giatvcdn.com/giatvplayout7/giatv-208817/playlist.m3u8,vod-no-autorizado
 MAXC Comedy TV,Cine / Películas,https://183.giatvcdn.com/giatvplayout7/giatv-208730/playlist.m3u8,vod-no-autorizado
 Tele Clásicos,Cine / Películas,https://183.giatvcdn.com/giatvplayout7/giatv-211454/playlist.m3u8,vod-no-autorizado
-TV Clasicos,Cine / Películas,https://183.giatvcdn.com/giatvplayout7/giatv-212242/playlist.m3u8,vod-no-autorizado
 MultiVox Accion,Cine / Películas,https://stmv6.voxtvhd.com.br/cineaccion/cineaccion/playlist.m3u8,vod-no-autorizado
 Imagen Universal (Rep. Dominicana),Cine / Películas,https://imagenuniversaltv.net:3771/live/iutvlive.m3u8,tv-pago/adulto;vod-no-autorizado
 GAMTV.cr (Costa Rica),Cine / Películas,https://v2.azulstream.com:8081/gamtv/gamtv/index.m3u8,tv-pago/adulto;vod-no-autorizado
 VB Media TV (México),Cine / Películas,https://capomo01-enitv.eninetworks.com/locales_vbmedia_publico/index.m3u8,vod-no-autorizado
+TV Clasicos,Cine / Películas,https://183.giatvcdn.com/giatvplayout7/giatv-212242/playlist.m3u8,vod-no-autorizado
 Canal Teleclasica (México),Cine / Películas,https://vtm1.msinteractiva.com/teleclasica/teleclasica/playlist.m3u8,vod-no-autorizado
 Exito Multimedia (Paraguay),Cine / Películas,https://edge.enhdtv.com/exitotv/index.m3u8,vod-no-autorizado
 Universo TV MTV 93.1 (Argentina),Cine / Películas,https://183.giatvcdn.com/giatv/giatv-universotv/universotv/playlist.m3u8,tv-pago/adulto;vod-no-autorizado
@@ -262,12 +262,10 @@ Cine Western,Cine / Películas,https://jmp2.uk/stvp-ES2300005G7,vod-no-autorizad
 WEST TV,Cine / Películas,http://181.224.255.210:8001/play/a0rq/index.m3u8?hls,no-https;ip-directa;vod-no-autorizado
 Cosmos TV (Formosa / Argentina)[No 24/7],Cine / Películas,https://canaletaplus.com:3922/hybrid/play.m3u8,vod-no-autorizado
 Fabian Vision [No 24/7],Cine / Películas,https://183.giatvcdn.com/ssh101/ssh101/fabiantv182/playlist.m3u8,vod-no-autorizado
-TeleCine TV [No 24/7],Cine / Películas,https://183.giatvcdn.com/ssh101/ssh101/cinetv/playlist.m3u8,vod-no-autorizado
 MCU TV [No 24/7],Cine / Películas,https://183.giatvcdn.com/ssh101/ssh101/imcu/playlist.m3u8,vod-no-autorizado
 TV Retro Palmares [No 24/7],Cine / Películas,https://183.giatvcdn.com/ssh101/ssh101/tvretropalm2020/playlist.m3u8,vod-no-autorizado
 Canal Onza TV [No 24/7],Cine / Películas,https://streaming.hostpannel.lat/hls/video_156/index.m3u8,vod-no-autorizado
 Mega Cine TV [No 24/7],Cine / Películas,https://cnn.hostlagarto.com/megacinetv/playlist.m3u8,vod-no-autorizado
-Opinión Sur Cine [No 24/7],Cine / Películas,https://183.giatvcdn.com/giatv/giatv-opinionsurc/opinionsurc/playlist.m3u8,vod-no-autorizado
 WOW Movies [No 24/7],Cine / Películas,https://183.giatvcdn.com/giatv/giatv-wowmovies/wowmovies/playlist.m3u8,vod-no-autorizado
 WOW Movies SD [No 24/7],Cine / Películas,https://183.giatvcdn.com/ssh101/ssh101/wowchannelsd/playlist.m3u8,vod-no-autorizado
 MAXTV Movies [No 24/7],Cine / Películas,https://tvstreaming.albpo.com/memfs/8d987761-7923-4532-a95d-20723ae95374.m3u8,vod-no-autorizado
@@ -275,18 +273,14 @@ MAXTV Retro [No 24/7],Cine / Películas,https://tvstreaming.albpo.com/memfs/b552
 Canal 69 TV [No 24/7],Cine / Películas,https://183.giatvcdn.com/ssh101/ssh101/canal69tv/playlist.m3u8,vod-no-autorizado
 Pantalla Clásica [No 24/7] (Ecuador),Cine / Películas,https://183.giatvcdn.com/ssh101/ssh101/pantallaclasics/playlist.m3u8,vod-no-autorizado
 Codigo TV [No 24/7](Rep. Dominicana),Cine / Películas,https://edge.essastream.com/codigotv/index.m3u8,vod-no-autorizado
-Cine53 [No 24/7],Cine / Películas,https://183.giatvcdn.com/ssh101/ssh101/codificador8/playlist.m3u8,vod-no-autorizado
-Mittos TV [No 24/7],Cine / Películas,https://183.giatvcdn.com/ssh101/ssh101/tv777lv/playlist.m3u8,vod-no-autorizado
-Alternativa TV [No 24/7],Cine / Películas,https://183.giatvcdn.com/ssh101/ssh101/alternativatvpe/playlist.m3u8,vod-no-autorizado
 PRITV [No 24/7],Cine / Películas,https://183.giatvcdn.com/ssh101/ssh101/tv1251master/playlist.m3u8,vod-no-autorizado
-El 70 TV [No 24/7](Rep. Dominicana),Cine / Películas,https://183.giatvcdn.com/giatv/giatv-cnal70tv/cnal70tv/playlist.m3u8,vod-no-autorizado
 NEO TV Digital [No 24/7],Cine / Películas,https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8,vod-no-autorizado
 Marca TV [No 24/7] (Cotopaxi),Cine / Películas,http://200.7.219.221:8088/live/livetv/index.m3u8,no-https;ip-directa;vod-no-autorizado
 Nativa TV Satipo [No 24/7] (Junín),Cine / Películas,https://7.innovatestream.pe:19360/nativatv/nativatv.m3u8,vod-no-autorizado
 Atacama TV [Not 24/7] (Copiapó - Atacama),Cine / Películas,https://v2.tustreaming.cl/atacamatv/index.m3u8,vod-no-autorizado
 Atacama TV [Not 24/7] (Copiapó - Atacama) [Opc.2],Cine / Películas,https://v4.tustreaming.cl/atacamatv/index.m3u8,vod-no-autorizado
 Metro TV [No 24/7],Cine / Películas,https://streamtv12.ddns.net:5443/LiveApp/streams/193945633734205616732920.m3u8,vod-no-autorizado
-Retrox TV [No 24/7],Cine / Películas,https://stream-retroxtv.site/w/YsgWSG6WtjajVhCmgkC9kkda.m3u8,vod-no-autorizado
+Retrox TV [No 24/7],Cine / Películas,https://stream-retroxtv.site/w/QNibZ7nyJCWBSqNgme03EG4r.m3u8,vod-no-autorizado
 Retro Plus TV 3 [No 24/7],Cine / Películas,https://srt01.logicahost.com.br/senal3/index.m3u8?ChileTv,vod-no-autorizado
 TeleCinco Trelew [No 24/7](Chubut / Argentina),Cine / Películas,https://stmvideo1.livecastv.com/tele5trelew/tele5trelew/playlist.m3u8,vod-no-autorizado
 MultiVox La India (SUB/IA DUB),Cine / Películas,https://stmv6.voxtvhd.com.br/cinehindi/cinehindi/playlist.m3u8,vod-no-autorizado
@@ -512,6 +506,7 @@ Boreal (Internacional),Entretenimiento / Cine / Series,https://edge.essastream.c
 Red TVE Ventanas (Ecuador - Los Ríos),Entretenimiento / Cine / Series,https://s2.tvdatta.com:3825/live/redtvelive.m3u8,vod-no-autorizado
 El Mago TV 2,Entretenimiento / Cine / Series,https://183.giatvcdn.com/ssh101/ssh101/elmagotv2/playlist.m3u8,vod-no-autorizado
 Retro TV,Entretenimiento / Cine / Series,https://stream.enlineatv.net/hls/retrotv/1_2/index.m3u8,vod-no-autorizado
+Pituco TV [No 24/7],Entretenimiento / Cine / Series,https://imagenuniversaltv.net:3439/live/elpitucolive.m3u8,vod-no-autorizado
 ITV Patagonia (Punta Arenas - Magallanes),Entretenimiento / Cine / Series,https://unlimited1-us.dps.live/itv/itv.smil/playlist.m3u8,vod-no-autorizado
 Canal 7 Salta (Salta / Argentina),Entretenimiento / Cine / Series,https://vivo.solumedia.com:19360/cooperativa/cooperativa.m3u8,vod-no-autorizado
 Canal 34 San Juan (San Juan / Argentina),Entretenimiento / Cine / Series,https://streamyes.alsolnet.com/canal34hd/live/playlist.m3u8,vod-no-autorizado
@@ -903,6 +898,7 @@ CANAL 91 TELEVISION CHICHICASTECA,TV Chichicasteca,http://45.5.118.152:8000/play
 CANAL 92 TELEVISION CHICHICASTECA,TV Chichicasteca,http://45.5.118.152:8000/play/a0cj/index.m3u8,no-https;ip-directa
 CANAL 94 TELEVISION CHICHICASTECA,TV Chichicasteca,http://45.5.118.152:8000/play/a0ck/index.m3u8,no-https;ip-directa
 CANAL 98 TELEVISION CHICHICASTECA,TV Chichicasteca,http://45.5.118.152:8000/play/a0cl/index.m3u8,no-https;ip-directa
+Cine Sony HD (Opc.2),Sony Channels,http://200.60.124.25:8000/play/a0no/index.m3u8,no-https;ip-directa
 Sony HD (Opc.1),Sony Channels,http://181.224.255.210:8001/play/a0oc/index.m3u8?hls,no-https;ip-directa
 Sony HD (Opc.2),Sony Channels,http://181.119.177.253:8000/play/a03z/index.m3u8,no-https;ip-directa
 Sony HD (Opc.3),Sony Channels,http://181.225.190.242:8000/play/a02u,no-https;ip-directa

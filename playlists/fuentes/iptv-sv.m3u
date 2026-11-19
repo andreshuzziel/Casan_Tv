@@ -311,8 +311,6 @@ https://liveingesta118.cdnmedia.tv/telecafelive/rtmp01-1500/chunklist.m3u8?DVR
 https://liveingesta118.cdnmedia.tv/tvtelemedellinlive/smil:rtmp01.smil/playlist.m3u8
 #EXTINF:-1 #EXTINF:-1 tvg-logo="https://i.imgur.com/aKHGRyk.png" group-title="Colombia",Teleislas SD [No 24/7] (San Andrés / Regional)
 https://5ab772334c39c.streamlock.net/live-teleislas/teleislas/playlist.m3u8
-#EXTINF:-1 #EXTINF:-1 tvg-logo="https://i.imgur.com/6YxtyUR.jpeg" group-title="Colombia",Canal Calima TV HD (URESTV)[No 24/7] (Cali / Valle del Cauca)
-https://movil.ejeserver.com/live/calimatv.m3u8?r=748
 #EXTINF:-1 #EXTINF:-1 tvg-logo="https://i.imgur.com/vPwiJTw.png" group-title="Colombia",TeveColombia HD [No 24/7] (Nacional)
 https://cloud6.livescast.com:3900/live/tevecolombialive.m3u8
 #EXTINF:-1 #EXTINF:-1 tvg-logo="https://i.ibb.co/27Pzdvw/cropped-TELESANGIL-LOGO-1.png" group-title="Colombia",Telesangil HD [No 24/7](San Gil - Santander)
@@ -321,16 +319,10 @@ https://183.giatvcdn.com/ssh101/ssh101/telesangil/playlist.m3u8
 https://movil.ejeserver.com/live/teledoradahd.m3u8
 #EXTINF:-1 #EXTINF:-1 tvg-logo="https://i.imgur.com/NmsWlj6.jpeg" group-title="Colombia",Mas Norte TV HD [No 24/7] (Norte de Santander)
 https://live.arnoproducciones.com/hls/norte.m3u8
-#EXTINF:-1 #EXTINF:-1 tvg-logo="https://i.imgur.com/dYhnVoV.png" group-title="Colombia",Telebolívar HD [No 24/7] (Bolívar)
-https://tvstreaming.albpo.com/memfs/18dd99fc-d98e-41ad-b5e8-03f2d7f98bdb.m3u8
-#EXTINF:-1 #EXTINF:-1 tvg-logo="https://i.imgur.com/dYhnVoV.png" group-title="Colombia",Telebolívar HD [No 24/7] (Bolívar) [Twitch]
-https://www.twitch.tv/telebolivarsas
 #EXTINF:-1 #EXTINF:-1 tvg-logo="https://i.imgur.com/zJAwnvd.png" group-title="Colombia",CNC Bugavisión HD (Buga - Valle del Cauca)
 https://movil.ejeserver.com/live/cncbuga.m3u8
 #EXTINF:-1 #EXTINF:-1 tvg-logo="https://i.imgur.com/xG2apUG.jpeg" group-title="Colombia",El Mundo del Campo HD (Nacional)
 https://movil.ejeserver.com/live/elmundodelcampo.m3u8
-#EXTINF:-1 #EXTINF:-1 tvg-logo="https://i.imgur.com/1voWgLI.png" group-title="Colombia",Ultra Casanare TV HD [No 24/7] (Casanare)
-https://eu1.servers10.com:8081/8072/index.m3u8
 #EXTINF:-1 #EXTINF:-1 tvg-logo="https://i.imgur.com/pyeBDpg.jpeg" group-title="Colombia",Canal TV3 HD  [No 24/7] (Valle del Cauca)
 https://streaming.telenetdigital.net.co:8086/canal3tv/stream.m3u8
 #EXTINF:-1 #EXTINF:-1 tvg-logo="https://i.imgur.com/RuQDwTt.jpeg" group-title="Colombia",Canica TV SD [No 24.7](Cundinamarca)
@@ -341,8 +333,6 @@ https://stmv3.voxtvhd.com.br/ondastereotv/ondastereotv/playlist.m3u8
 https://us.streaminghd.cl/suramtv/index.m3u8
 #EXTINF:-1 #EXTINF:-1 tvg-logo="https://i.imgur.com/25CFHpB.png" group-title="Colombia",Vive TV Colombia HD [No 24/7](Nacional)
 https://stream.vivetvcolombia.com/vivetv/index.m3u8
-#EXTINF:-1 #EXTINF:-1 tvg-logo="https://i.imgur.com/3qxBDhV.png" group-title="Colombia",Canal PyC HD (Ibagué)
-https://183.giatvcdn.com/ssh101/ssh101/pyctelevision/playlist.m3u8
 #EXTINF:-1 #EXTINF:-1 tvg-logo="https://i.imgur.com/w2t8CGT.png" group-title="Colombia",Blu Radio HD [No 24/7] (Nacional)
 https://mdstrm.com/live-stream-playlist/58d1921a72e2b22e2905e493.m3u8
 #EXTINF:-1 #EXTINF:-1 tvg-logo="https://i.imgur.com/Hl5wowk.png" group-title="Ecuador",Ecuavisa (Nacional)
@@ -547,6 +537,8 @@ https://pantera1-100gb-cl-movistar.dps.live/tvquellon/tvquellon.smil/playlist.m3
 https://v1.tustreaming.cl/aysentv/index.m3u8
 #EXTINF:-1 #EXTINF:-1 tvg-logo="https://i.imgur.com/LvzLg33.png" group-title="Chile",UTalca TV HD (Campus TV - Talca / Maule)
 https://pantera1-100gb-cl-movistar.dps.live/campustv/campustv.smil/playlist.m3u8
+#EXTINF:-1 #EXTINF:-1 tvg-logo="https://i.imgur.com/LvzLg33.png" group-title="Chile",La Mix TV HD (Maule)
+https://183.giatvcdn.com/ssh101/ssh101/lamixtv/playlist.m3u8
 #EXTINF:-1 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZJNSpfZ.png" group-title="Chile",UTV Universidad Autónoma HD (Temuco / Santiago / Talca)
 https://v2.tustreaming.cl/utv/index.m3u8
 #EXTINF:-1 #EXTINF:-1 tvg-logo="https://i.imgur.com/RXRKPvs.png" group-title="Chile",EGM Channel HD (Rancagua)
@@ -855,6 +847,8 @@ https://183.giatvcdn.com/ssh101/ssh101/bolivianews/playlist.m3u8
 https://hls.tvabierta.net/hls/boliviatv.m3u8
 #EXTINF:-1 #EXTINF:-1 tvg-logo="https://deltaboliviainstitucion.org/wp-content/uploads/2021/12/cropped-LOGO-DELTA-500-1.png" group-title="Bolivia",Delta TV SD [No 24/7]
 https://st.deltaboliviainstitucion.org:3778/hybrid/play.m3u8
+#EXTINF:-1 #EXTINF:-1 tvg-logo="https://i.imgur.com/fE3BkcT.png" group-title="Bolivia",GigaVision (La Paz) [No 24/7]
+https://tv2.bitstreaming.net:3576/multi_live/play.m3u8
 #EXTINF:-1 #EXTINF:-1 tvg-logo="https://i.ibb.co/MxJNPHsn/La-1.png" group-title="España",La 1 de TVE (Nacional)
 https://rtvelivestream.rtve.es/rtvesec/la1/la1_main.m3u8
 #EXTINF:-1 #EXTINF:-1 tvg-logo="https://i.ibb.co/MxJNPHsn/La-1.png" group-title="España",La 1 de TVE (Nacional)[Opc.2]
@@ -1265,6 +1259,8 @@ https://amg00658-amg00658c54-canelatv-international-5364.playouts.now.amagi.tv/p
 https://azt-mun.otteravision.com/azt/mun/mun.m3u8
 #EXTINF:-1 #EXTINF:-1 tvg-logo="https://i.imgur.com/MJzuRAN.png" group-title="Entretenimiento Premium",RCN Mas + HD (Colombia)
 https://rcntv-rcnmas-1-us.plex.wurl.tv/playlist.m3u8
+#EXTINF:-1 #EXTINF:-1 tvg-logo="https://i.imgur.com/MJzuRAN.png" group-title="Entretenimiento Premium",RCN Nuestra Tele HD (Colombia)
+https://stream1.bitred.cl/nuestra-tele/index.m3u8
 #EXTINF:-1 #EXTINF:-1 tvg-logo="https://i.ibb.co/j98NY8Mr/starcolor.png" group-title="Entretenimiento Premium",TVE Star HD (1080p)
 https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_dvr_1080.m3u8
 #EXTINF:-1 #EXTINF:-1 tvg-logo="https://i.ibb.co/j98NY8Mr/starcolor.png" group-title="Entretenimiento Premium",TVE Star HD (720p)
