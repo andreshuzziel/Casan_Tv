@@ -16,7 +16,7 @@ Adult Swim West [Not 24/7;Geo-blocked],Entertainment,https://turnerlive.warnerme
 Alcarria TV (576p) [Not 24/7],General,http://217.182.77.27/live/alcarriatv-livestream.m3u8,no-https;ip-directa
 Allegro HD (1080p),Music,http://158.172.155.130:8000/play/a0dn/index.m3u8,no-https;ip-directa
 AlternaTV (720p) [Not 24/7],Culture;Documentary;Entertainment;General;Movies;Music,https://tv.alterna.ar/stream/hls/live.m3u8,vod-no-autorizado
-AMC en Espanol,Entertainment,https://amc-amcespanol-1-us.lg.wurl.tv/playlist.m3u8,tv-pago/adulto
+AMC en Espanol (1080p),Entertainment,https://amc-amcespanol-1-us.vizio.wurl.tv/playlist.m3u8,tv-pago/adulto
 AMC Latin America (1080p),Movies,http://15.204.246.24:8080/AMCHD/index.m3u8,no-https;ip-directa;tv-pago/adulto;vod-no-autorizado
 AMC Series Latin America (1080p),Series,http://45.171.64.30:6060/play/a005/index.m3u8,no-https;ip-directa;tv-pago/adulto;vod-no-autorizado
 America Television (1080p),General,http://190.93.224.42/AMERICA-TV/index.m3u8,no-https;ip-directa
@@ -280,7 +280,7 @@ HBO Hits (720p),Movies;Series,http://tvsen7.aynascope.net/hbo2/index.m3u8,no-htt
 HBO Latin America (1080p),Undefined,https://streaming.onnethn.com/HBO/playlist.m3u8,tv-pago/adulto
 HBO Mundi Latin America,Movies,https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/cinemax.stream/chunks.m3u8,tv-pago/adulto;vod-no-autorizado
 HBO Pop Latin America (1080p) [Geo-blocked],Comedy,http://15.204.246.24:8080/HBOPOPHD/index.m3u8,no-https;ip-directa;tv-pago/adulto
-HBO Xtreme Latin America,Movies;Series,https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/HBO_Xtreme/chunks.m3u8,tv-pago/adulto;vod-no-autorizado
+HBO Xtreme Latin America,Movies;Series,http://181.78.61.202:8000/play/a02a,no-https;ip-directa;tv-pago/adulto;vod-no-autorizado
 HBO+ Latin America (1080p),Undefined,http://45.134.141.161:2200/ARG/HBO_HD/index.m3u8,no-https;ip-directa;tv-pago/adulto
 HCH (720p),News,http://45.228.234.9:8000/play/a06t/index.m3u8,no-https;ip-directa
 HGTV Latin America (1080p),Lifestyle,http://38.87.224.19:2220/play/a01p/index.m3u8,no-https;ip-directa
@@ -395,6 +395,7 @@ Neo TV (Peru) (720p),Entertainment,http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/
 NET TV (1080p),General,http://45.226.205.96:48000/play/a09p/index.m3u8,no-https;ip-directa
 Next HD (480p),Movies;Music,https://live.enhdtv.com:19360/nexthd/nexthd.m3u8,vod-no-autorizado
 NG Federal (720p),General,http://www.coninfo.net:1935/tvlink/live/playlist.m3u8,no-https
+Nickelodeon (Spain),Kids,http://90.170.214.40:9700/stream/avatel/nickelodeon/master.m3u8,no-https;ip-directa
 Nickelodeon (Spain) HD (1080p),Kids,http://90.170.214.40:9700/stream/avatel/nickelodeonhd/master.m3u8,no-https;ip-directa
 Nickelodeon Latin America (1080p),Kids,http://181.78.79.131:8000/play/a0qm,no-https;ip-directa
 Nortevision (1080p),Undefined,http://amaru.dyndns.org:8870/0.m3u8,no-https

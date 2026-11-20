@@ -178,8 +178,7 @@ Venevisión [V2],Venezuela,http://200.59.191.177:8000/play/a0li/index.m3u8?hls,n
 VE Plus [Opc.2],Venezuela,http://181.78.211.244:8000/play/a04m/index.m3u8,no-https;ip-directa
 Telearagua,Venezuela,http://45.173.198.59:8080/hls/nginx3.m3u8,no-https;ip-directa
 Bolivisión LPZ (La Paz),Bolivia,http://158.172.155.130:8000/play/a0e8/index.m3u8,no-https;ip-directa
-Unitel LPZ SD [No 24/7],Bolivia,http://190.181.61.93:8000/play/a00t/index.m3u8,no-https;ip-directa
-Unitel SCZ SD [No 24/7],Bolivia,http://190.181.61.93:8000/play/a00r/index.m3u8,no-https;ip-directa
+Unitel TV SD [No 24/7],Bolivia,http://200.59.191.177:8000/play/a0md/index.m3u8?hls,no-https;ip-directa
 Red ADvenir TV,Bolivia,http://streamer1.streamhost.org:1935/salive/GMIredadvenirm/playlist.m3u8,no-https
 XTOTV,Bolivia,http://190.104.15.135/0.ts,no-https;ip-directa
 Bolivia TV [Opc.2],Bolivia,http://158.172.155.130:8000/play/a0e4/index.m3u8,no-https;ip-directa
@@ -295,19 +294,22 @@ Universal TV SD[Opc.3],Cine / Películas Premium,http://181.143.237.211:85/tsfil
 Universal Premiere HD,Cine / Películas Premium,http://45.5.117.99:8000/play/a0i1/index.m3u8,no-https;ip-directa;tv-pago/adulto;vod-no-autorizado
 Universal Premiere HD [Opc.2],Cine / Películas Premium,http://45.167.1.139:8000/play/a064,no-https;ip-directa;tv-pago/adulto;vod-no-autorizado
 Universal Premiere SD [Opc.3],Cine / Películas Premium,http://181.79.87.130:8000/play/a0db/index.m3u8,no-https;ip-directa;tv-pago/adulto;vod-no-autorizado
-Universal Cinema HD,Cine / Películas Premium,http://186.33.0.57:8000/play/a05x/index.m3u8,no-https;ip-directa;tv-pago/adulto;vod-no-autorizado
+Universal Cinema HD,Cine / Películas Premium,http://38.210.105.10:8000/play/a0hv/index.m3u8,no-https;ip-directa;tv-pago/adulto;vod-no-autorizado
 Universal Cinema HD [Opc.2],Cine / Películas Premium,http://45.228.234.62:8000/play/a07c/index.m3u8,no-https;ip-directa;tv-pago/adulto;vod-no-autorizado
-Universal Cinema HD [Opc.3],Cine / Películas Premium,http://181.119.177.253:8000/play/a0cw/index.m3u8,no-https;ip-directa;tv-pago/adulto;vod-no-autorizado
+Universal Cinema HD [Opc.3],Cine / Películas Premium,http://45.5.118.152:8000/play/a06g/index.m3u8,no-https;ip-directa;tv-pago/adulto;vod-no-autorizado
+Universal Comedy HD [Opc.1],Cine / Películas Premium,http://45.130.161.15:8000/play/a03j/index.m3u8,no-https;ip-directa;tv-pago/adulto;vod-no-autorizado
+Universal Comedy SD [Opc.2],Cine / Películas Premium,http://192.141.98.91:8000/play/a209/index.m3u8,no-https;ip-directa;tv-pago/adulto;vod-no-autorizado
+Universal Comedy HD [Opc.3],Cine / Películas Premium,http://187.245.231.227:8000/play/a0ou/index.m3u8,no-https;ip-directa;tv-pago/adulto;vod-no-autorizado
 Universal Crime HD,Cine / Películas Premium,http://45.228.234.62:8000/play/a05v/index.m3u8,no-https;ip-directa;tv-pago/adulto;vod-no-autorizado
-Universal Crime HD [Opc.2],Cine / Películas Premium,http://45.5.118.152:8000/play/a0dp/index.m3u8,no-https;ip-directa;tv-pago/adulto;vod-no-autorizado
+Universal Crime HD [Opc.2],Cine / Películas Premium,http://186.5.77.99:8000/play/a0s8/index.m3u8,no-https;ip-directa;tv-pago/adulto;vod-no-autorizado
 Universal Crime HD [Opc.3],Cine / Películas Premium,http://45.167.1.138:8000/play/a066,no-https;ip-directa;tv-pago/adulto;vod-no-autorizado
 TNT HD,Cine / Películas Premium,http://181.78.73.153:8000/play/a0at/index.m3u8,no-https;ip-directa;vod-no-autorizado
 TNT HD (Opc.2),Cine / Películas Premium,http://205.235.6.29:8000/play/a0yr/index.m3u8?hls,no-https;ip-directa;vod-no-autorizado
-TNT HD (Opc.3),Cine / Películas Premium,http://45.5.118.152:8000/play/a0di/index.m3u8,no-https;ip-directa;vod-no-autorizado
-HBO HD,Cine / Películas Premium,http://181.119.177.253:8000/play/a00x/index.m3u8,no-https;ip-directa;tv-pago/adulto;vod-no-autorizado
+TNT HD (Opc.3),Cine / Películas Premium,http://190.60.60.114:8000/play/a02n/index.m3u8,no-https;ip-directa;vod-no-autorizado
+HBO HD,Cine / Películas Premium,http://38.7.195.44:8000/play/a0g4,no-https;ip-directa;tv-pago/adulto;vod-no-autorizado
 HBO HD [Opc.2],Cine / Películas Premium,http://181.79.87.131:8000/play/a0ei/index.m3u8,no-https;ip-directa;tv-pago/adulto;vod-no-autorizado
 HBO HD [Opc.3],Cine / Películas Premium,http://186.148.196.100:8000/play/a002,no-https;ip-directa;tv-pago/adulto;vod-no-autorizado
-HBO2 HD [Opc.1],Cine / Películas Premium,http://181.119.177.253:8000/play/a00y/index.m3u8,no-https;ip-directa;tv-pago/adulto;vod-no-autorizado
+HBO2 HD [Opc.1],Cine / Películas Premium,http://181.78.88.113:9800/play/a0fl/index.m3u8,no-https;ip-directa;tv-pago/adulto;vod-no-autorizado
 HBO2 HD [Opc.2],Cine / Películas Premium,http://181.78.197.59:8000/play/a07e/index.m3u8,no-https;ip-directa;tv-pago/adulto;vod-no-autorizado
 HBO2 HD [Opc.3],Cine / Películas Premium,http://186.33.1.71:8000/play/a00c/index.m3u8,no-https;ip-directa;tv-pago/adulto;vod-no-autorizado
 HBO Plus SD (Opc.1),Cine / Películas Premium,http://200.59.191.177:8000/play/a00m/index.m3u8?hls,no-https;ip-directa;tv-pago/adulto;vod-no-autorizado
@@ -328,7 +330,7 @@ HBO MUNDI SD (Opc.3),Cine / Películas Premium,http://190.60.59.60:8000/play/a0p
 HBO Signature SD,Cine / Películas Premium,http://181.224.255.210:8001/play/a0re/index.m3u8?hls,no-https;ip-directa;tv-pago/adulto;vod-no-autorizado
 HBO Signature SD [Opc.2],Cine / Películas Premium,http://190.60.59.60:8000/play/a0pd/index.m3u8,no-https;ip-directa;tv-pago/adulto;vod-no-autorizado
 HBO Signature SD [Opc.3],Cine / Películas Premium,http://181.224.255.210:8001/play/a0re/index.m3u8?hls,no-https;ip-directa;tv-pago/adulto;vod-no-autorizado
-Warner Channel HD (Opc.1),Cine / Películas Premium,http://181.79.86.130:8000/play/a041/index.m3u8,no-https;ip-directa;tv-pago/adulto;vod-no-autorizado
+Warner Channel HD (Opc.1),Cine / Películas Premium,http://181.78.4.253:11003/play/a0cq/index.m3u8,no-https;ip-directa;tv-pago/adulto;vod-no-autorizado
 Warner Channel HD (Opc.2),Cine / Películas Premium,http://205.235.6.29:8000/play/a0ys/index.m3u8?hls,no-https;ip-directa;tv-pago/adulto;vod-no-autorizado
 Warner Channel SD (Opc.3),Cine / Películas Premium,http://45.5.116.228:8000/play/a07j/index.m3u8,no-https;ip-directa;tv-pago/adulto;vod-no-autorizado
 Cinecanal HD (Opc.1),Cine / Películas Premium,http://186.148.196.100:8000/play/a02o,no-https;ip-directa;tv-pago/adulto;vod-no-autorizado
@@ -341,7 +343,7 @@ Cine Familiar HD (Opc.1),Cine / Películas Premium,http://181.225.190.242:8000/p
 Cine Familiar HD (Opc.2),Cine / Películas Premium,http://181.78.8.199:8000/play/a09p/index.m3u8,no-https;ip-directa;vod-no-autorizado
 Cine Familiar HD (Opc.3),Cine / Películas Premium,http://190.60.47.182:8000/play/a0bw/index.m3u8,no-https;ip-directa;vod-no-autorizado
 Cine Premium HD (Opc.1),Cine / Películas Premium,http://181.225.190.242:8000/play/a00y,no-https;ip-directa;vod-no-autorizado
-Cine Premium HD (Opc.2),Cine / Películas Premium,http://181.119.177.253:8000/play/a0cp/index.m3u8,no-https;ip-directa;vod-no-autorizado
+Cine Premium HD (Opc.2),Cine / Películas Premium,http://181.78.61.202:8000/play/a03t,no-https;ip-directa;vod-no-autorizado
 Cine Premium HD (Opc.3),Cine / Películas Premium,http://45.167.1.138:8000/play/a06s,no-https;ip-directa;vod-no-autorizado
 Cine Hispano HD (Opc.1),Cine / Películas Premium,http://181.225.190.242:8000/play/a00x,no-https;ip-directa;vod-no-autorizado
 Cine Hispano HD (Opc.2),Cine / Películas Premium,http://190.60.47.182:8000/play/a0bv/index.m3u8,no-https;ip-directa;vod-no-autorizado
@@ -379,7 +381,7 @@ USA Network SD [Opc.3],Cine / Películas Premium,http://200.59.191.177:8000/play
 Azteca Cinema HD,Cine / Películas Premium,http://181.225.190.242:8000/play/a006,no-https;ip-directa;vod-no-autorizado
 Azteca Cinema HD [Opc.2],Cine / Películas Premium,http://186.148.175.138:8000/play/a055,no-https;ip-directa;vod-no-autorizado
 Azteca Cinema HD [Opc.3],Cine / Películas Premium,http://186.148.196.100:8000/play/a013,no-https;ip-directa;vod-no-autorizado
-De Película HD [Opc.1],Cine / Películas Premium,http://181.119.177.253:8000/play/a0dr/index.m3u8,no-https;ip-directa;vod-no-autorizado
+De Película SD [Opc.1],Cine / Películas Premium,http://190.119.168.226:4000/play/a0dg/index.m3u8,no-https;ip-directa;vod-no-autorizado
 De Película SD (Opc.2),Cine / Películas Premium,http://205.235.6.29:8000/play/a0z7/index.m3u8?hls,no-https;ip-directa;vod-no-autorizado
 De Película HD (Opc.3),Cine / Películas Premium,http://45.5.118.152:8000/play/a089/index.m3u8,no-https;ip-directa;vod-no-autorizado
 CINE MEXICANO,Cine / Películas Premium,http://190.61.101.11:7050/play/a08x/index.m3u8?hls,no-https;ip-directa;vod-no-autorizado
@@ -387,7 +389,7 @@ CINE MEXICANO [Opc.2],Cine / Películas Premium,http://45.5.117.57:8200/play/a0i
 CINE MEXICANO [Opc.3],Cine / Películas Premium,http://168.228.44.241:9997/play/a08d/index.m3u8,no-https;ip-directa;vod-no-autorizado
 Claro Cinema,Cine / Películas Premium,http://45.182.22.53:8000/play/a0b1/index.m3u8,no-https;ip-directa;vod-no-autorizado
 Claro Cinema [Opc.2],Cine / Películas Premium,http://181.79.87.130:8000/play/a0bh/index.m3u8,no-https;ip-directa;vod-no-autorizado
-Claro Cinema [Opc.3],Cine / Películas Premium,http://186.33.0.57:8000/play/a043/index.m3u8,no-https;ip-directa;vod-no-autorizado
+Claro Cinema [Opc.3],Cine / Películas Premium,http://181.66.249.246:8000/play/a03n/index.m3u8,no-https;ip-directa;vod-no-autorizado
 TCM SD (Opc.1),Cine / Películas Premium,http://181.224.255.210:8001/play/a0qw/index.m3u8?hls,no-https;ip-directa;vod-no-autorizado
 TCM HD (Opc.2),Cine / Películas Premium,http://45.167.1.136:8000/play/a02s,no-https;ip-directa;vod-no-autorizado
 TCM SD (Opc.3),Cine / Películas Premium,http://186.148.182.83:8000/play/a09e/index.m3u8,no-https;ip-directa;vod-no-autorizado
@@ -399,7 +401,7 @@ FMH reWIND,Cine / Películas Premium,http://45.181.120.147:9800/play/087/index.m
 FMH FlashBack,Cine / Películas Premium,http://201.186.41.99:8001/play/a06m/index.m3u8,no-https;ip-directa;vod-no-autorizado
 FMH Movies,Cine / Películas Premium,http://45.186.254.75:8000/play/a07j/index.m3u8,no-https;ip-directa;vod-no-autorizado
 FMH Movies [Opc.2],Cine / Películas Premium,http://45.172.92.111:8000/play/a038/index.m3u8,no-https;ip-directa;vod-no-autorizado
-FMH Movies SD [Opc.3],Cine / Películas Premium,http://45.172.92.111:8000/play/a04a/index.m3u8,no-https;ip-directa;vod-no-autorizado
+FMH Movies [Opc.3],Cine / Películas Premium,http://38.210.105.10:8000/play/a07s/index.m3u8,no-https;ip-directa;vod-no-autorizado
 FMH Family,Cine / Películas Premium,http://186.148.196.100:8000/play/a01z,no-https;ip-directa;vod-no-autorizado
 FMH Family [Opc.2],Cine / Películas Premium,http://181.78.21.171:8000/play/a09b/index.m3u8,no-https;ip-directa;vod-no-autorizado
 FMH Family [Opc.3],Cine / Películas Premium,http://201.186.41.99:8001/play/a06h/index.m3u8,no-https;ip-directa;vod-no-autorizado
@@ -484,7 +486,7 @@ CityTV SD,Entretenimiento Premium,http://186.148.182.83:8000/play/a08e/index.m3u
 CityTV SD [Opc.2],Entretenimiento Premium,http://186.148.175.138:8000/play/a075,no-https;ip-directa
 CityTV SD [Opc.3],Entretenimiento Premium,http://152.231.29.139:8000/play/a0fr/index.m3u8,no-https;ip-directa
 Canal 9 SD (Nicaragua) [Opc.1],Entretenimiento Premium,http://179.60.224.196:8000/play/a0ge/index.m3u8,no-https;ip-directa
-MTV HD,Entretenimiento Premium,http://191.97.55.72:8000/play/a0027/index.m3u8?fbclid=Iwb21leAUjB1pjbGNrBSMHTmV4dG4DYWVtAjExAHBkb2YFc3J0YwZhcHBfaWQMMzUwNjg1NTMxNzI4AAEevq11NHFG8cYgMb3kQDPg0lyKXBvYEfo0FpTZ1bFGrHSyx5Vg6Vwo3A4_W7E_aem_H3jQTGjdo4T7MS10ehEGfg,no-https;ip-directa;tv-pago/adulto
+MTV HD,Entretenimiento Premium,http://201.240.104.137:8000/play/mtvm/index.m3u8,no-https;ip-directa;tv-pago/adulto
 MTV HD (Opc.2),Entretenimiento Premium,http://181.79.87.130:8000/play/a0en/index.m3u8,no-https;ip-directa;tv-pago/adulto
 MTV SD (Opc.3),Entretenimiento Premium,http://181.119.185.32:8000/play/a013/index.m3u8?hls,no-https;ip-directa;tv-pago/adulto
 TeleOnce (Puerto Rico),Entretenimiento / Cine / Series,https://live.11-cdn.com/TeleOnce/3fc63fe00050c646635f16b071cd33e2.sdp/playlist.m3u8,vod-no-autorizado
@@ -507,6 +509,7 @@ Red TVE Ventanas (Ecuador - Los Ríos),Entretenimiento / Cine / Series,https://s
 El Mago TV 2,Entretenimiento / Cine / Series,https://183.giatvcdn.com/ssh101/ssh101/elmagotv2/playlist.m3u8,vod-no-autorizado
 Retro TV,Entretenimiento / Cine / Series,https://stream.enlineatv.net/hls/retrotv/1_2/index.m3u8,vod-no-autorizado
 Pituco TV [No 24/7],Entretenimiento / Cine / Series,https://imagenuniversaltv.net:3439/live/elpitucolive.m3u8,vod-no-autorizado
+Alternativa TV [No 24/7],Entretenimiento / Cine / SeriesCine / Películas,https://183.giatvcdn.com/ssh101/ssh101/alternativatvpe/playlist.m3u8,vod-no-autorizado
 ITV Patagonia (Punta Arenas - Magallanes),Entretenimiento / Cine / Series,https://unlimited1-us.dps.live/itv/itv.smil/playlist.m3u8,vod-no-autorizado
 Canal 7 Salta (Salta / Argentina),Entretenimiento / Cine / Series,https://vivo.solumedia.com:19360/cooperativa/cooperativa.m3u8,vod-no-autorizado
 Canal 34 San Juan (San Juan / Argentina),Entretenimiento / Cine / Series,https://streamyes.alsolnet.com/canal34hd/live/playlist.m3u8,vod-no-autorizado
@@ -726,6 +729,8 @@ HTV SD,Música,http://200.59.191.177:8000/play/a00n/index.m3u8?hls,no-https;ip-d
 HTV SD (Opc.2),Música,http://190.108.83.69:8000/play/a00q/index.m3u8,no-https;ip-directa
 EXATV SD,Música,http://181.119.177.253:8000/play/a0ef/index.m3u8,no-https;ip-directa
 FMH KIZZY,Música,http://181.78.21.171:8000/play/a09d/index.m3u8,no-https;ip-directa
+MTV 80s,Música,http://190.83.9.222:8000/play/ca057/index.m3u8,no-https;ip-directa;tv-pago/adulto
+MTV 00s,Música,http://181.78.88.113:9800/play/a09l/index.m3u8,no-https;ip-directa;tv-pago/adulto
 RumbaTV HD,Música,http://191.97.55.72:8000/play/a0035/index.m3u8,no-https;ip-directa
 RumbaTV HD(OPC.2),Música,http://200.48.65.77:8000/play/a01z,no-https;ip-directa
 Video Tour Channel,Música,http://k4.usastreams.com/videotour/videotour/playlist.m3u8,no-https
