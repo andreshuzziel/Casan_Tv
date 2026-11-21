@@ -37,12 +37,11 @@ ATV+ (1080p),News,http://45.171.108.253:8888/ATV/index.m3u8,no-https;ip-directa
 Aunar (1080p),Culture;Travel,http://190.128.214.97:64333/play/a057/index.m3u8,no-https;ip-directa
 Aurora Media Films (720p),Movies,https://cdn.streamhispanatv.net:3417/live/auroramflive.m3u8,vod-no-autorizado
 AVI Rewind (1080p),Movies,http://45.70.201.81:8000/play/a010/index.m3u8,no-https;ip-directa;vod-no-autorizado
-AXN (Spain),Movies,http://sultanios.alwaysdata.net/vavo.php?ID=4238619703,no-https;url-sospechosa;tv-pago/adulto;vod-no-autorizado
+AXN (Spain) (1080p),Movies,https://vuvuu-geil-m3u8.yaskar661.workers.dev/?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F4238619703,tv-pago/adulto;vod-no-autorizado
 AXN (Spain) HD (1080p),Movies,http://90.170.214.40:9700/stream/avatel/axn/master.m3u8,no-https;ip-directa;tv-pago/adulto;vod-no-autorizado
 AXN Latin America (1080p),Movies,http://138.121.15.230:9002/AXN/index.m3u8,no-https;ip-directa;tv-pago/adulto;vod-no-autorizado
 AXN Latin America Andes (1080p),Movies,http://181.78.8.199:8000/play/a0cu/index.m3u8,no-https;ip-directa;tv-pago/adulto;vod-no-autorizado
 AXN Latin America South,Movies,http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/10.m3u8,no-https;ip-directa;tv-pago/adulto;vod-no-autorizado
-AXN Movies (Spain),Movies,http://sultanios.alwaysdata.net/vavo.php?ID=2493319111,no-https;url-sospechosa;tv-pago/adulto;vod-no-autorizado
 AyM Sports (1080p),Sports,http://168.196.127.137:6001/play/a06v/index.m3u8,no-https;ip-directa
 AYNI TV (1080p),General,http://15.204.246.24:8080/AyniTVHD/index.m3u8,no-https;ip-directa
 Az Cinema (1080p),Movies,http://15.204.196.147:22880/CABLE-MAGES-AZCINEMA/video.m3u8,no-https;ip-directa;vod-no-autorizado
@@ -293,7 +292,7 @@ Hogar TV (1080p),Lifestyle,http://181.78.211.244:8005/play/a06w/index.m3u8,no-ht
 Hola! TV Latin America (1080p),Entertainment,http://15.204.246.24:8080/HOLATVHD/index.m3u8,no-https;ip-directa
 HTV (720p),Music,http://45.171.64.30:6060/play/a012/index.m3u8,no-https;ip-directa
 HTV Argentina (720p),Music,http://45.134.141.161:2200/ARG/HTV/index.m3u8,no-https;ip-directa
-iCarly (United States) LatAm,Series,https://jmp2.uk/plu-620ff0a01f9e8700076c6f9d.m3u8,vod-no-autorizado
+iCarly LatAm,Series,https://jmp2.uk/plu-620ff0a01f9e8700076c6f9d.m3u8,vod-no-autorizado
 Iglesia Del Camino (480p) [Not 24/7],Religious,http://streamingcontrol.com:1935/ectv/ectv/playlist.m3u8,no-https
 Imagen Universal TV,General,https://imagenuniversaltv.net:3771/live/iutvlive.m3u8,tv-pago/adulto
 Investiga,Series,https://jmp2.uk/plu-5dcde27ffae9520009c0c75a.m3u8,vod-no-autorizado
@@ -362,11 +361,11 @@ Movistar Plus (576p),Entertainment,http://45.4.1.201:8000/play/a19y/index.m3u8,n
 MSG (720p),Sports,http://23.237.104.106:8080/USA_MSG/index.m3u8,no-https;ip-directa
 MTV2 (720p),Entertainment,http://198.58.104.90:8989/mtv2/index.m3u8,no-https;ip-directa;tv-pago/adulto
 MTV Biggest Pop LatAm (1080p),Music,https://jmp2.uk/plu-6047fabfce6e8e00070bcc9f.m3u8,tv-pago/adulto
-MTV Catfish (United States) LatAm (720p),Entertainment,https://jmp2.uk/plu-625461ef01f27a0007976ad1.m3u8,tv-pago/adulto
+MTV Catfish LatAm (720p),Entertainment,https://jmp2.uk/plu-625461ef01f27a0007976ad1.m3u8,tv-pago/adulto
 MTV Chontales (720p) [Not 24/7],General,https://altair.hostingnica.net/hls/mtv_stream/index.m3u8,tv-pago/adulto
 MTV Classic LatAm (720p),Music,https://jmp2.uk/plu-66a11a21a79dea0008aa90ca.m3u8,tv-pago/adulto
 MTV Con Mi Ex,Entertainment,https://jmp2.uk/plu-638693db857364000781b471.m3u8,tv-pago/adulto
-MTV Dating (United States) LatAm (720p),Series,https://jmp2.uk/plu-6851b909954170e0128bc71d.m3u8,tv-pago/adulto;vod-no-autorizado
+MTV Dating LatAm (720p),Series,https://jmp2.uk/plu-6851b909954170e0128bc71d.m3u8,tv-pago/adulto;vod-no-autorizado
 MTV Drag LatAm,Entertainment,https://jmp2.uk/plu-64510d3ad3fdde00080951f2.m3u8,tv-pago/adulto
 MTV Embarazada a los 16,Entertainment,https://jmp2.uk/plu-5f98537a5a4341000733aefe.m3u8,tv-pago/adulto
 MTV en Espanol,Entertainment,https://jmp2.uk/plu-5cf96d351652631e36d4331f.m3u8,tv-pago/adulto
@@ -376,10 +375,10 @@ MTV Jerseys,Entertainment,https://jmp2.uk/plu-62ac3d7dc23b400008ae5b5a.m3u8,tv-p
 MTV Latin America (1080p),Entertainment,http://15.204.246.24:8080/MTVHD/index.m3u8,no-https;ip-directa;tv-pago/adulto
 MTV Originals,Entertainment,https://jmp2.uk/plu-5f1aadf373bed3000794d1d7.m3u8,tv-pago/adulto
 MTV Pluto TV LatAm (720p),Entertainment,https://jmp2.uk/plu-5fab088b3279760007d4e4fd.m3u8,tv-pago/adulto
-MTV Reality (United States) LatAm (720p),Entertainment,https://jmp2.uk/plu-5de91b7ea86ee60009d89e75.m3u8,tv-pago/adulto
-MTV Ridiculousness (United States) LatAm (720p),Entertainment,https://jmp2.uk/plu-5e98a911c881310007d7aae2.m3u8,tv-pago/adulto
+MTV Reality LatAm (720p),Entertainment,https://jmp2.uk/plu-5de91b7ea86ee60009d89e75.m3u8,tv-pago/adulto
+MTV Ridiculousness LatAm (720p),Entertainment,https://jmp2.uk/plu-5e98a911c881310007d7aae2.m3u8,tv-pago/adulto
 MTV Rocks LatAm,Entertainment,https://jmp2.uk/plu-66a01b52a4ee27000808ea36.m3u8,tv-pago/adulto
-MTV Teen Mom (United States) (720p),Series,https://jmp2.uk/plu-620fd9f4afb9a80007a9c6d5.m3u8,tv-pago/adulto;vod-no-autorizado
+MTV Teen Mom (720p),Series,https://jmp2.uk/plu-620fd9f4afb9a80007a9c6d5.m3u8,tv-pago/adulto;vod-no-autorizado
 MTV Verguenza ajena (720p),Entertainment,https://jmp2.uk/plu-63eb9495a8b227000841bf64.m3u8,tv-pago/adulto
 MultiPremier (1080p),Movies,http://168.196.127.137:6001/play/a08n/index.m3u8,no-https;ip-directa;vod-no-autorizado
 MusicTop (1080p),Music,http://190.128.214.97:64333/play/a06o/index.m3u8,no-https;ip-directa
@@ -390,7 +389,7 @@ Nanduti (1080p),News,http://190.128.214.97:64333/play/a02d/index.m3u8,no-https;i
 National Geographic (Mexico) (1080p),Documentary,http://138.121.15.230:9002/NAT-GEO/index.m3u8,no-https;ip-directa;tv-pago/adulto
 National Geographic Latin America (1080p),Documentary,http://15.204.246.24:8080/NatGeoHD/index.m3u8,no-https;ip-directa;tv-pago/adulto
 Nativa (720p),General,http://187.102.210.46/NATIVATV/index.m3u8,no-https;ip-directa
-NCIS (United States) LatAm,Series,https://jmp2.uk/plu-63eb947c4e83e70008ab877b.m3u8,vod-no-autorizado
+NCIS LatAm,Series,https://jmp2.uk/plu-63eb947c4e83e70008ab877b.m3u8,vod-no-autorizado
 Neo TV (Peru) (720p),Entertainment,http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/DigitalTV/playlist.m3u8,no-https
 NET TV (1080p),General,http://45.226.205.96:48000/play/a09p/index.m3u8,no-https;ip-directa
 Next HD (480p),Movies;Music,https://live.enhdtv.com:19360/nexthd/nexthd.m3u8,vod-no-autorizado
@@ -452,8 +451,8 @@ Pluto TV Novelas de Otros Continentes,Series,https://jmp2.uk/plu-686eed4c677f2f9
 Pluto TV Novelas de Venezuela,Series,https://jmp2.uk/plu-6474a86917f5e100089a0c1c.m3u8,vod-no-autorizado
 Pluto TV Nuestro Cine,Movies,https://jmp2.uk/plu-5defde6d6c07b50009cf0757.m3u8,vod-no-autorizado
 Pluto TV Psycho,Movies,https://jmp2.uk/plu-65ce480a78df2200131c597b.m3u8,vod-no-autorizado
-Pluto TV Sci-Fi (United States),Movies;Series,https://jmp2.uk/plu-5b4fc274694c027be6ed3eea.m3u8,vod-no-autorizado
-Pluto TV Sci-Fi (United States) LatAm,Movies;Series,https://jmp2.uk/plu-5f2817d3d7573a00080f9175.m3u8,vod-no-autorizado
+Pluto TV Sci-Fi,Movies;Series,https://jmp2.uk/plu-5b4fc274694c027be6ed3eea.m3u8,vod-no-autorizado
+Pluto TV Sci-Fi LatAm,Movies;Series,https://jmp2.uk/plu-5f2817d3d7573a00080f9175.m3u8,vod-no-autorizado
 Pluto TV Series,Series,https://jmp2.uk/plu-5dcde1317578340009b751d0.m3u8,vod-no-autorizado
 Pluto TV Series criminales,Series,https://jmp2.uk/plu-65cf6ab58145cb0008129ca8.m3u8,vod-no-autorizado
 Pluto TV Series de Accion,Series,https://jmp2.uk/plu-6479ff1c17f5e10008ad2797.m3u8,vod-no-autorizado
@@ -529,7 +528,6 @@ Star Channel (Colombia) (1080p),Movies;Series,http://190.61.47.54:8000/play/a035
 Star Channel Latin America (1080p),Movies;Series,http://15.204.246.24:8080/STARCHANNELHD/index.m3u8,no-https;ip-directa;vod-no-autorizado
 Star Channel Latin America South,Movies;Series,http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/51.m3u8,no-https;ip-directa;vod-no-autorizado
 Star Trek LatAm,Series,https://jmp2.uk/plu-5ec5761aabe4690007f6e047.m3u8,vod-no-autorizado
-Star Trek: Voyager (Germany),Movies;Series,https://jmp2.uk/plu-65787f2eb228b7000843fa5c.m3u8,vod-no-autorizado
 Starz West (720p),Undefined,http://23.237.104.106:8080/USA_STARZ_WEST/index.m3u8,no-https;ip-directa;tv-pago/adulto
 Starz Cinema (720p),Movies,http://23.237.104.106:8080/USA_STARZ_CINEMA/index.m3u8,no-https;ip-directa;tv-pago/adulto;vod-no-autorizado
 Starz Comedy (1080p),Comedy,http://23.237.104.106:8080/USA_STARZ_COMEDY/index.m3u8,no-https;ip-directa;tv-pago/adulto
@@ -548,7 +546,6 @@ TC Television (1080p),General,http://45.224.97.181:9999/TC/index.m3u8,no-https;i
 TCM Latin America (1080p),Undefined,http://181.78.14.26:4000/play/a04d/index.m3u8,no-https;ip-directa
 TCM Latin America South (1080p),Undefined,http://45.171.64.30:6060/play/a014/index.m3u8,no-https;ip-directa
 Tele Amiga (720p),Culture,http://200.122.223.13:55000/play/tele-amiga-ses-6/index.m3u8,no-https;ip-directa
-Tele Antillas (1080p),General,http://45.171.108.253:8888/TELEANTILLAS/index.m3u8,no-https;ip-directa
 Tele Uno (720p) [Not 24/7],Undefined,http://tv.teleunotv.cr:1935/TVUNO/TVUNO/playlist.m3u8,no-https
 Tele Vid (1080p),Religious,http://200.122.223.13:55000/play/a01n/index.m3u8,no-https;ip-directa
 Teleamazonas (1080p),General,http://45.171.108.253:8888/TELEAMAZONAS/index.m3u8,no-https;ip-directa
@@ -582,7 +579,7 @@ Teleunion (1080p),General,http://server2grupocam.com:1945/teleunion/TU/playlist.
 Televen (1080p),General,http://38.134.250.110:8000/play/a02i/index.m3u8,no-https;ip-directa
 Television Publica (1080p),General,http://190.128.214.97:64333/play/a008/index.m3u8,no-https;ip-directa
 Television Tarapoto (1080p),General,http://45.5.57.58:8000/play/a038/index.m3u8,no-https;ip-directa
-The New Detectives (United States) LatAm,Series,https://jmp2.uk/plu-5ea71d48af1d0b0007d837f4.m3u8,vod-no-autorizado
+The New Detectives LatAm,Series,https://jmp2.uk/plu-5ea71d48af1d0b0007d837f4.m3u8,vod-no-autorizado
 Tigo Sports (El Salvador) (1080p),Sports,http://45.167.2.101:8000/play/a0pp/index.m3u8,no-https;ip-directa
 Tigo Sports (Guatemala) (1080p),Sports,http://45.5.119.43:4000/play/a05t/index.m3u8,no-https;ip-directa
 Tigo Sports (Honduras) (1080p),Sports,http://168.196.127.137:6001/play/a0ay/index.m3u8,no-https;ip-directa
