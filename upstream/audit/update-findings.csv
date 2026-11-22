@@ -15,6 +15,7 @@ DSports (1080p),Sports,http://38.187.7.252:8000/play/a03d/index.m3u8,no-https;ip
 E! Latin America (1080p),Entertainment;News,http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/entertainment.stream/playlist.m3u8,no-https
 El Canal Feliz (720p),Entertainment,http://streaming.multicontenidos.cl:8081/live/canalfeliz/playlist.m3u8,no-https
 ESPN 3 Latin America (1080p),Sports,https://barinaslive1.boldmss.com/ESPN_3/ESPN_3.isml/ESPN_3.m3u8,tv-pago/adulto
+HGTV Latin America (1080p),Lifestyle,http://38.87.224.19:2220/play/a01p/index.m3u8,no-https;ip-directa
 Mega 2 (1080p),Culture,http://15.204.196.147:22880/MEGA2-MEGAMEDIA-EE.UU-PROVEEDOR/index.m3u8,no-https;ip-directa
 Mega (Chile) (1080p),General,http://tr.live.clarovtrcdn.vtrplay.com/megahdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD,no-https
 Mega Ficcion (1080p),Series,http://15.204.196.147:22880/MEGAFICCION-MEGAMEDIA-EE.UU-PROVEEDOR/index.m3u8,no-https;ip-directa;vod-no-autorizado
@@ -30,6 +31,7 @@ TLC Latin America (1080p),Lifestyle,http://38.134.250.110:8000/play/a00n/index.m
 TNT Series Latin America (1080p),Series,http://168.196.127.137:6001/play/a095/index.m3u8,no-https;ip-directa;vod-no-autorizado
 TNT Sports (Chile) (480p),Sports,http://205.235.6.29:8000/play/a0xa/index.m3u8,no-https;ip-directa;tv-pago/adulto
 TNT Sports Premium HD,Sports,https://play-fulltv.com.ar/playtvpre/tntsportschile.m3u8,tv-pago/adulto
+Tooncast (1080p),Animation;Kids,http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/69.m3u8,no-https;ip-directa
 Tooncast SouthAmerica (480p),Animation;Kids,http://190.61.42.218:9000/play/a06i/index.m3u8,no-https;ip-directa
 TVN (Chile) (1080p),General,http://15.204.246.24:8080/TVNHD/index.m3u8,no-https;ip-directa
 U Los Lagos TV (1080p) [Not 24/7],Undefined,http://tv.ulagos.cl/web/live.m3u8,no-https

@@ -40,12 +40,13 @@ Teleflix HD [No 24/7],Guatemala,http://200.35.176.154:8000/play/a04r/index.m3u8,
 Telecable Salcaja,Guatemala,http://186.33.61.182:8000/play/a05p/index.m3u8,no-https;ip-directa
 HCH SD (Nacional) [Opc.2],Honduras,http://200.59.191.177:8000/play/a0m6/index.m3u8?hls,no-https;ip-directa
 Canal 5 El Líder HD (Nacional)[Opc.2],Honduras,http://190.61.101.11:7050/play/a070/index.m3u8?hls,no-https;ip-directa
-Canal 11 SD (Nacional),Honduras,http://45.5.117.187:8000/play/a01c/index.m3u8,no-https;ip-directa
+Canal 11 HD (Nacional) [Opc.2],Honduras,http://190.97.183.101:8000/play/a09l,no-https;ip-directa
+Canal 11 SD (Nacional) [Opc.3],Honduras,http://45.5.117.187:8000/play/a01c/index.m3u8,no-https;ip-directa
 Deportes TVC SD,Honduras,http://190.61.101.11:7050/play/a06t/index.m3u8?hls,no-https;ip-directa
 Deportes TVC SD [Opc.2],Honduras,http://181.119.177.253:8000/play/a06d/index.m3u8,no-https;ip-directa
 Deportes TVC HD [Opc.3],Honduras,http://45.167.1.137:8000/play/a02x,no-https;ip-directa
-VTV SD (Nacional) [Opc.2],Honduras,http://186.33.0.57:8000/play/a04v/index.m3u8,no-https;ip-directa
-VTV SD (Nacional) [Opc.3],Honduras,http://45.228.234.62:8000/play/a069/index.m3u8,no-https;ip-directa
+Telecadena 7y4 SD (Nacional) [Opc.1],Honduras,http://186.33.0.57:8000/play/a04v/index.m3u8,no-https;ip-directa
+Telecadena 7y4 SD (Nacional) [Opc.2],Honduras,http://45.228.234.62:8000/play/a069/index.m3u8,no-https;ip-directa
 Canal 4 Repretel SD  (Nacional)[Opc.2],Costa Rica,http://45.186.106.207:8000/play/a09t/index.m3u8,no-https;ip-directa
 Canal 4 Repretel SD  (Nacional)[Opc.3],Costa Rica,http://45.228.234.62:8000/play/a04w/index.m3u8,no-https;ip-directa
 Canal 6 Repretel SD (Nacional)[Opc.2],Costa Rica,http://186.33.0.57:8000/play/a02o/index.m3u8,no-https;ip-directa
@@ -149,7 +150,7 @@ ChileVisión HD (Geo-Blocked),Chile,http://origin.dpsgo.com/ssai/event/R6cwOFyHQ
 ChileVisión HD [Opc.3],Chile,http://181.78.79.131:8000/play/a0r0,no-https;ip-directa
 ChileVisión HD [Opc.4],Chile,http://205.235.6.29:8000/play/a10w/index.m3u8?hls,no-https;ip-directa
 ChileVisión SD (Nacional)[Opc.5],Chile,http://181.79.87.130:8000/play/a0cy/index.m3u8,no-https;ip-directa
-Canal 13 HD (Nacional)(Opc.2),Chile,http://181.79.87.131:8000/play/a0ef/index.m3u8,no-https;ip-directa
+Canal 13 HD (Nacional)(Opc.2),Chile,http://201.240.104.137:8000/play/trece/index.m3u8,no-https;ip-directa
 TVN HD (Nacional)[Opc.2],Chile,http://45.173.231.22:8000/play/a06l/index.m3u8,no-https;ip-directa
 TVN HD (Nacional)[Opc.3],Chile,http://190.108.83.69:8000/play/a03f/index.m3u8,no-https;ip-directa
 TVN HD (LOCAL),Chile,http://181.78.121.15:8000/play/a00k/index.m3u8,no-https;ip-directa
@@ -296,7 +297,7 @@ Universal TV SD[Opc.2],Cine / Películas Premium,http://190.61.101.11:7050/play/
 Universal TV SD[Opc.3],Cine / Películas Premium,http://181.143.237.211:85/tsfile/live/1081_1.m3u8?key=txiptv&playlive=1&authid=0,no-https;ip-directa;tv-pago/adulto;vod-no-autorizado
 Universal Premiere HD,Cine / Películas Premium,http://45.5.117.99:8000/play/a0i1/index.m3u8,no-https;ip-directa;tv-pago/adulto;vod-no-autorizado
 Universal Premiere HD [Opc.2],Cine / Películas Premium,http://45.167.1.139:8000/play/a064,no-https;ip-directa;tv-pago/adulto;vod-no-autorizado
-Universal Premiere SD [Opc.3],Cine / Películas Premium,http://181.79.87.130:8000/play/a0db/index.m3u8,no-https;ip-directa;tv-pago/adulto;vod-no-autorizado
+Universal Premiere SD [Opc.3],Cine / Películas Premium,http://45.130.161.15:8000/play/a03f/index.m3u8,no-https;ip-directa;tv-pago/adulto;vod-no-autorizado
 Universal Cinema HD,Cine / Películas Premium,http://38.210.105.10:8000/play/a0hv/index.m3u8,no-https;ip-directa;tv-pago/adulto;vod-no-autorizado
 Universal Cinema HD [Opc.2],Cine / Películas Premium,http://45.228.234.62:8000/play/a07c/index.m3u8,no-https;ip-directa;tv-pago/adulto;vod-no-autorizado
 Universal Cinema HD [Opc.3],Cine / Películas Premium,http://45.5.118.152:8000/play/a06g/index.m3u8,no-https;ip-directa;tv-pago/adulto;vod-no-autorizado
