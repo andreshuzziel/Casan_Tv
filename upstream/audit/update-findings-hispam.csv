@@ -98,6 +98,7 @@ Canal Womtv (720p),Entertainment,https://live.amelbatv.co:81/womtvlive/index.m3u
 Caracol HD2 (1080p),General,http://181.78.14.26:4000/play/a00d/index.m3u8,no-https;ip-directa
 Caracol Internacional (1080p),General,http://45.5.117.57:8200/play/a0e9/index.m3u8,no-https;ip-directa
 Caracol TV (1080p),General,http://38.190.100.202:8000/play/a09v/index.m3u8,no-https;ip-directa
+Cartoon Cartoons (720p),Animation;Kids,https://cartooncartoons.thatsoretro.com/hls/stream.m3u8,tv-pago/adulto
 Cartoon Network Latin America,Animation;Kids,https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/cartoonnetwork.stream/chunks.m3u8,tv-pago/adulto
 Cartoon Network Latin America North Atlantic (1080p),Animation;Kids,http://45.173.12.70:8000/play/a0fj,no-https;ip-directa;tv-pago/adulto
 Cartoon Network Latin America South Atlantic (1080p),Animation;Kids,http://158.172.217.18:8000/play/a03a/index.m3u8,no-https;ip-directa;tv-pago/adulto
@@ -189,7 +190,7 @@ Enlace (1080p),Religious,http://45.5.117.57:8999/play/a01c/index.m3u8,no-https;i
 Enlace Television (1080p),General,http://181.78.12.119:16123/play/ch33/index.m3u8,no-https;ip-directa
 ESPN 2 Latin America (1080p),Sports,https://barinaslive1.boldmss.com/ESPN_2/ESPN_2.isml/ESPN_2.m3u8,tv-pago/adulto
 ESPN 2 Latin America Argentina,Sports,https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/espn2-mux/playlist.m3u8,tv-pago/adulto
-ESPN 2 Latin America Colombia (1080p),Sports,http://190.61.47.54:8000/play/a005/index.m3u8,no-https;ip-directa;tv-pago/adulto
+ESPN 2 Latin America Colombia (1080p),Sports,http://38.211.118.56:50002/play/a0fa/index.m3u8,no-https;ip-directa;tv-pago/adulto
 ESPN 3 Latin America (1080p),Sports,https://barinaslive1.boldmss.com/ESPN_3/ESPN_3.isml/ESPN_3.m3u8,tv-pago/adulto
 ESPN 3 Latin America Argentina,Sports,https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/espn3-mux/playlist.m3u8,tv-pago/adulto
 ESPN 4 Latin America (1080p),Sports,https://barinaslive1.boldmss.com/ESPN_4/ESPN_4.isml/ESPN_4.m3u8,tv-pago/adulto
@@ -307,6 +308,7 @@ Monumental TV (1080p),General,http://190.128.214.97:64333/play/a046/index.m3u8,n
 Morazan TV (720p),General,http://45.167.2.138:8000/play/a0o4/index.m3u8,no-https;ip-directa
 Movistar Deportes (1080p),Sports,http://195.178.110.110/movistar/index.m3u8,no-https;ip-directa;tv-pago/adulto
 Movistar Plus (576p),Entertainment,http://45.4.1.201:8000/play/a19y/index.m3u8,no-https;ip-directa
+MTV (India) International (576p),Entertainment,https://yupp-music.keralive.workers.dev/out/v1/a797c00cba954265ba781f92a57e2cf5/index.m3u8,tv-pago/adulto
 MTV Biggest Pop LatAm (1080p),Music,https://jmp2.uk/plu-6047fabfce6e8e00070bcc9f.m3u8,tv-pago/adulto
 MTV Catfish LatAm (720p),Entertainment,https://jmp2.uk/plu-625461ef01f27a0007976ad1.m3u8,tv-pago/adulto
 MTV Chontales (720p) [Not 24/7],General,https://altair.hostingnica.net/hls/mtv_stream/index.m3u8,tv-pago/adulto
@@ -459,6 +461,7 @@ Teleceiba (1080p),Undefined,http://45.238.141.222:8000/play/a0pf/index.m3u8,no-h
 Telefe (1080p),General,http://45.173.231.22:8000/play/a053/index.m3u8,no-https;ip-directa
 Telefe Buenos Aires (1080p),General,http://45.134.141.161:2200/ARG/TELEFE_HD/index.m3u8,no-https;ip-directa
 Telefe Internacional (1080p),Undefined,http://200.115.120.1:8000/play/ca016/index.m3u8,no-https;ip-directa
+Telefe Salta (720p),Undefined,https://canal11saltatv.unpocodeawita.workers.dev,no-https
 Telefuturo (Paraguay) (1080p),General,http://158.172.217.18:8000/play/a0ns/index.m3u8,no-https;ip-directa
 TeleHit (1080p),Music,http://186.148.196.100:8000/play/a01s,no-https;ip-directa
 Telehit Musica,Music,http://190.61.55.34:2401/play/a06t/index.m3u8,no-https;ip-directa
