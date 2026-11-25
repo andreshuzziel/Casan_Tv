@@ -181,7 +181,6 @@ Discovery Kids Latin America (1080p),Kids,http://181.224.200.5:2277/play/a00o/in
 Discovery Kids Latin America Chile (1080p),Kids,http://38.224.231.176:8000/play/a01j/index.m3u8,no-https;ip-directa;tv-pago/adulto
 Discovery Kids Latin America Colombia (1080p),Kids,http://38.134.250.110:8000/play/a003/index.m3u8,no-https;ip-directa;tv-pago/adulto
 Discovery Science Latin America (720p),Science,http://45.171.64.30:6060/play/a007/index.m3u8,no-https;ip-directa;tv-pago/adulto
-Discovery Science Latin America ColombiaPeru (720p),Science,http://45.134.141.161:2200/ARG/Discovery_Science_HD/index.m3u8,no-https;ip-directa;tv-pago/adulto
 Discovery Theater Latin America (1080p),Undefined,http://181.224.200.5:2277/play/a0bj/index.m3u8,no-https;ip-directa;tv-pago/adulto
 Discovery Turbo Latin America (1080p),Auto,http://38.134.250.110:8000/play/a01y/index.m3u8,no-https;ip-directa;tv-pago/adulto
 Discovery World (1080p),Entertainment,http://168.196.127.137:6001/play/a097/index.m3u8,no-https;ip-directa;tv-pago/adulto
@@ -235,7 +234,7 @@ ESPN Deportes HD (720p),Sports,http://168.228.44.241:9998/play/a0dz/index.m3u8,n
 ESPN Latin America (1080p),Sports,https://barinaslive1.boldmss.com/ESPN/ESPN.isml/ESPN.m3u8,tv-pago/adulto
 ESPN Latin America Argentina,Sports,https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/espn-mux/chunks.m3u8,tv-pago/adulto
 ESPN Latin America Colombia (1080p),Sports,http://181.78.211.244:8005/play/a08q/index.m3u8,no-https;ip-directa;tv-pago/adulto
-ESPN Latin America Mexico (1080p),Sports,http://168.228.44.241:9997/play/a06p/index.m3u8,no-https;ip-directa;tv-pago/adulto
+ESPN Latin America Mexico,Sports,https://lilac19.pontiscloud.com/live/gt/ESPN/index.m3u8,tv-pago/adulto
 ESPN Premium,Sports,http://45.134.141.161:2200/ARG/ESPN_Premium_Argentina_HD/tracks-v1a1/mono.m3u8,no-https;ip-directa;tv-pago/adulto
 ESPN Premium HD (1080p),Sports,http://158.172.155.130:8000/play/a0ao/index.m3u8,no-https;ip-directa;tv-pago/adulto
 Este Canal TV (576p),General,http://synclosdragos1.syncsolutions.es:8008/live3/emision/index.m3u8,no-https
@@ -393,7 +392,7 @@ NG Federal (720p),General,http://www.coninfo.net:1935/tvlink/live/playlist.m3u8,
 Nickelodeon (Spain),Kids,http://90.170.214.40:9700/stream/avatel/nickelodeon/master.m3u8,no-https;ip-directa
 Nickelodeon (Spain) HD (1080p),Kids,http://90.170.214.40:9700/stream/avatel/nickelodeonhd/master.m3u8,no-https;ip-directa
 Nickelodeon Latin America (1080p),Kids,http://181.78.79.131:8000/play/a0qm,no-https;ip-directa
-Nortevision (1080p),Undefined,http://amaru.dyndns.org:8870/0.m3u8,no-https
+Nortevision (1080p),Undefined,http://amaru.dyndns.org:8870/1.m3u8,no-https
 Novelisima (1080p),Series,http://138.59.177.78:9999/play/a0gg/index.m3u8,no-https;ip-directa;vod-no-autorizado
 Nuestra Tele Internacional (1080p),General,http://45.173.231.22:8000/play/a0cr/index.m3u8,no-https;ip-directa
 Nuevo Tiempo TV (1080p),Religious,http://190.181.61.93:8000/play/a00o/index.m3u8,no-https;ip-directa
