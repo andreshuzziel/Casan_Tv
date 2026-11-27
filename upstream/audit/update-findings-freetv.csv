@@ -96,23 +96,17 @@ LN24,Belgium,https://live.cdn.ln24.be/out/v1/b191621c8b9a436cad37bb36a82d2e1c/in
 BX1,Belgium,https://59959724487e3.streamlock.net/stream/live/playlist.m3u8,fuera-de-region
 EEN,Belgium,https://live-vrt.rabah.net/groupc/live/8edf3bdf-7db3-41c3-a318-72cb7f82de66/live_aes.isml/playlist.m3u8,fuera-de-region
 Bruzz,Belgium,https://hls-origin01-bruzz.cdn02.rambla.be/main/adliveorigin-bruzz/_definst_/V3n5YY.smil/playlist.m3u8,fuera-de-region
-BHT 1,Bosnia and Herzegovina,https://bhrtstream.bhtelecom.ba/bhrtportal_hd.m3u8,fuera-de-region
-BHT 1 Ⓢ,Bosnia and Herzegovina,https://bhrtstream.bhtelecom.ba/bhrtportal.m3u8,fuera-de-region
-Federalna televizija (FTV) Ⓢ,Bosnia and Herzegovina,http://94.250.2.6:7374/play/a02s/index.m3u8,no-https;ip-directa;fuera-de-region
+BHT 1 Ⓖ,Bosnia and Herzegovina,https://bhrtstream.bhtelecom.ba/bhrtportal_hd.m3u8,fuera-de-region
+BHT 1 Ⓢ Ⓖ,Bosnia and Herzegovina,https://bhrtstream.bhtelecom.ba/bhrtportal.m3u8,fuera-de-region
 Televizija Republike Srpske (RTRS),Bosnia and Herzegovina,https://parh.rtrs.tv/tv/live/playlist.m3u8,fuera-de-region
 RTRS PLUS Ⓢ,Bosnia and Herzegovina,https://pluslive.rtrs.tv/plus/plus/playlist.m3u8,fuera-de-region
-N1 Bosna i Hercegovina,Bosnia and Herzegovina,https://best-str.umn.cdn.united.cloud/stream?channel=n1bos&p=n1Sh4redSecre7iNf0&sp=n1info&stream=sp1400&u=n1info,fuera-de-region
+N1 Bosna i Hercegovina,Bosnia and Herzegovina,https://best-str.umn.cdn.united.cloud/stream?stream=sp1400&sp=n1info&channel=n1bos&u=n1info&p=n1Sh4redSecre7iNf0&player=m3u8,fuera-de-region
 RTV HB Ⓢ,Bosnia and Herzegovina,https://prd-hometv-live-open.spectar.tv/ERO_1_083/playlist.m3u8,fuera-de-region
 RTV BN,Bosnia and Herzegovina,https://stream2.rtvbn.tv:8080/live_1935/bnstream/index.m3u8,fuera-de-region
-RTV Glas Drine,Bosnia and Herzegovina,http://glasdrine.cutuk.net:8081/433ssdsw/GlasDrineSD/playlist.m3u8,no-https;fuera-de-region
-TNT Kids,Bosnia and Herzegovina,https://restreamer1.tnt.ba/hls/tntkids.m3u8,fuera-de-region
 Televizija 5,Bosnia and Herzegovina,https://balkanmedia.dynu.net/hls/tv5web.m3u8,fuera-de-region
-Kanal 6,Bosnia and Herzegovina,https://restreamer1.tnt.ba/hls/kanal6.m3u8,fuera-de-region
-SuperTV,Bosnia and Herzegovina,https://live.tv-m.net/hls/stream.m3u8,fuera-de-region
-Neon TV,Bosnia and Herzegovina,rtsp://185.50.56.16:554/neontelvizija,no-https;fuera-de-region
-RTV USK Ⓨ,Bosnia and Herzegovina,https://www.youtube.com/@rtvusk/live,fuera-de-region
+SuperTV,Bosnia and Herzegovina,https://live.probaj.net/live/mirtv/index.m3u8,fuera-de-region
+Newsmax Balkans,Bosnia and Herzegovina,https://newsmaxadria.mts-si.tv/newsmaxadria/index.m3u8,fuera-de-region
 RTV ZE Ⓢ,Bosnia and Herzegovina,https://stream.rtvze.ba/live/123/123.m3u8,fuera-de-region
-TV BPK Ⓢ,Bosnia and Herzegovina,http://94.250.2.6:7374/play/a02u/index.m3u8,no-https;ip-directa;fuera-de-region
 COM Brasil,Brazil,https://br5093.streamingdevideo.com.br/abc/abc/playlist.m3u8,fuera-de-region
 SBT Ⓨ,Brazil,https://www.youtube.com/watch?v=ABVQXgr2LW4,fuera-de-region
 AgroBrasil TV,Brazil,http://45.162.230.234:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8,no-https;ip-directa;fuera-de-region
@@ -182,28 +176,21 @@ HRT 1 Ⓖ,Croatia,https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/HRT1/default/index.mp
 HRT 2 Ⓖ,Croatia,https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/HRT2/default/index.mpd,fuera-de-region
 RTL,Croatia,https://d1cs5tlhj75jxe.cloudfront.net/rtl/playlist.m3u8,fuera-de-region
 Nova TV,Croatia,http://176.61.157.250/NovaTV/index.m3u8,no-https;ip-directa;fuera-de-region
-HRT 3 Ⓖ,Croatia,https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/HRT3/default/index.mpd,fuera-de-region
-HRT 4 Ⓖ,Croatia,https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/HRT4/default/index.mpd,fuera-de-region
+HRT 3,Croatia,https://webtvstream.bhtelecom.ba/hls9/hrt3_1200.m3u8,fuera-de-region
+HRT 4 Ⓨ,Croatia,https://www.youtube.com/@HRT_vijesti/live,fuera-de-region
 RTL 2,Croatia,https://d1um9c09e0t5ag.cloudfront.net/rtl2/playlist.m3u8,fuera-de-region
 Sportska televizija Ⓖ,Croatia,https://stream.agatin.hr:3087/live/sptvlive.m3u8,fuera-de-region
 RTL Kockica,Croatia,https://d1rzyyum8t0q1e.cloudfront.net/rtl-kockica/playlist.m3u8,fuera-de-region
 CMC TV,Croatia,https://stream.cmctv.hr:49998/cmc/live.m3u8,fuera-de-region
-Plava Vinkovačka,Croatia,https://player-api.new.livestream.com/accounts/26611954/events/7977299/broadcasts/237205435.secure.m3u8,fuera-de-region
+Plava Vinkovačka,Croatia,https://edge2.livebroadcastsolutions.com/hls/stream.m3u8,fuera-de-region
 Televizija Slavonije i Baranje (STV),Croatia,http://89.201.163.244:8080/hls/hdmi.m3u8,no-https;ip-directa;fuera-de-region
-Osječka televizija (OSTV) Ⓢ,Croatia,https://player-api.new.livestream.com/accounts/27681961/events/8347875/broadcasts/237202062.secure.m3u8,fuera-de-region
+Osječka televizija (OSTV) Ⓢ,Croatia,https://live.osjecka.com/live/index.m3u8,fuera-de-region
 SBTV,Croatia,https://live.leveex.hr/hls/live.m3u8,fuera-de-region
-OTV,Croatia,https://stream.agatin.hr:3559/live/otvlive.m3u8,fuera-de-region
-Z1 Ⓨ,Croatia,https://www.youtube.com/@z1televizija/live,fuera-de-region
-Kanal Ri,Croatia,https://live.kanal-ri.click/LiveApp/streams/B6HK3voDwNsRQoLm1124882102135504.m3u8,fuera-de-region
+Kanal Ri,Croatia,https://live.kanalri-transfer.org/kanalri/main_stream.m3u8,fuera-de-region
 TV Nova,Croatia,https://stream.agatin.hr:3727/live/tvnovalive.m3u8,fuera-de-region
-Diadora,Croatia,https://diadoratv.stream/live/diadora/playlist.m3u8,fuera-de-region
 TV Jadran,Croatia,https://tvjadran.stream.agatin.hr:3412/live/tvjadranlive.m3u8,fuera-de-region
-TV Dalmacija Ⓨ,Croatia,https://www.youtube.com/channel/UCvNIJIY4CM-T28UQgbUE4rQ/live,fuera-de-region
-Libertas TV,Croatia,https://stream.luci.xyz/hls/LTV.m3u8,fuera-de-region
-Trend TV,Croatia,http://185.62.75.22:1935/trend/myStream/playlist.m3u8,no-https;ip-directa;fuera-de-region
-Televizija Zapad,Croatia,http://webtv.zapad.tv:8080/memfs/1ad23803-84c3-41c7-aa91-fce4c7eac52e.m3u8,no-https;fuera-de-region
-Al Jazeera Balkans,Croatia,https://live-hls-web-ajb.getaj.net/AJB/index.m3u8,fuera-de-region
-N1 Hrvatska Ⓨ,Croatia,https://www.youtube.com/@N1_Hrvatska/live,fuera-de-region
+Libertas TV,Croatia,https://stream.libertas.tv/memfs/6767a62d-34ce-4756-8df5-0722b0475870.m3u8,fuera-de-region
+N1 Hrvatska,Croatia,https://best-str.umn.cdn.united.cloud/stream?stream=sp1400&sp=n1info&channel=n1hrv&u=n1info&p=n1Sh4redSecre7iNf0&player=m3u8,fuera-de-region
 RIK 1 Ⓢ,Cyprus,http://213.7.216.229:8888/udp/239.23.0.1:1234,no-https;ip-directa;fuera-de-region
 RIK 2 Ⓢ,Cyprus,http://213.7.216.229:8888/udp/239.23.0.2:1234,no-https;ip-directa;fuera-de-region
 RIK HD,Cyprus,http://213.7.216.229:8888/udp/239.23.0.5:1234,no-https;ip-directa;fuera-de-region
@@ -1556,11 +1543,11 @@ Rotana Ciip,Saudi Arabia,https://rotana.hibridcdn.net/rotananet/clip_net-7Y83PP5
 Rotana Music,Saudi Arabia,https://rotana.hibridcdn.net/rotananet/music_net-7Y83PP5adWixDF93/playlist.m3u8,fuera-de-region
 RTS 1,Serbia,https://webtvstream.bhtelecom.ba/rts1.m3u8,fuera-de-region
 RTS 2,Serbia,https://webtvstream.bhtelecom.ba/rts2.m3u8,fuera-de-region
-RTS 3,Serbia,https://webtvstream.bhtelecom.ba/rts_sat.m3u8,fuera-de-region
 Red TV,Serbia,https://edge8.pink.rs/redtv/index.m3u8,fuera-de-region
 Kurir TV,Serbia,https://static.am.mediaoutcast.com/storage/nQJnjJkO/nQJnjJkO/stream/O68x4o8g/720p/720p.m3u8,fuera-de-region
-Informer TV,Serbia,https://edge-rs-03.maksnet.tv/informertv-secure/web/playlist.m3u8,fuera-de-region
+Blic TV,Serbia,https://edge-rs-06.maksnet.tv/blictv-secure/smil:blictv-secure.smil/playlist.m3u8,fuera-de-region
 RTS Svet,Serbia,https://webtvstream.bhtelecom.ba/rts_svet.m3u8,fuera-de-region
+IDJ TV,Serbia,https://best-str.umn.cdn.united.cloud/stream?stream=hp1400&sp=idjtv&u=idjtv&p=In$trum300na765ta&channel=idjhd&player=m3u8,fuera-de-region
 RTV 1,Serbia,rtmp://212.200.230.50:1935/RTV/rtv1,no-https;fuera-de-region
 RTV 2,Serbia,rtmp://212.200.230.50:1935/RTV/rtv2,no-https;fuera-de-region
 Markíza,Slovakia,https://cdnsk003.panaccess.com/local/Markiza/index.m3u8,fuera-de-region

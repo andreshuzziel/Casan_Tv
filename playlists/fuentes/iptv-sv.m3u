@@ -5,23 +5,23 @@ https://signal.teleon.live/play/0ovixKuZzOTGRRxCwa_ABQhsugeFdXFpCvtA19dpt-tZ8gPA
 https://signal.teleon.live/play/rP9_TAOqGedqe0XHS4ZRgYZBI9V78fDojJfie5Ph5WuMlJ_XA_TDw0mimsmUS9v6VgHDGGg6UyM5QuQOztz59w6e_WwQI3YXBVVIPh7zAQ.m3u8?token=test
 #EXTINF:-1 #EXTINF:-1 tvg-id="Canal6.sv" tvg-logo="https://i.imgur.com/M4muPLK.png" group-title="El Salvador - TCS",Canal 6 TCS SD
 https://signal.teleon.live/play/M-SFF5mIPhehGo_D8i6uMR6Bd-27NSk1CyGcC_RH3IU9KPSyUtE_LcTwpMg5b-Tf8SItAtfc-wgEZ3ikZvLWoUTNvdURyOyD.m3u8?token=test
-#EXTINF:-1 #EXTINF:-1 tvg-logo="https://i.postimg.cc/TPgVXb8p/SVPlus.png" group-title="El Salvador - TCS",SV+ SD
+#EXTINF:-1 #EXTINF:-1 tvg-id="VTV.sv" tvg-logo="https://i.postimg.cc/TPgVXb8p/SVPlus.png" group-title="El Salvador - TCS",SV+ SD
 https://signal.teleon.live/play/mZVS9wM6kHbL3OlEyPnCwt6gF2314LegOk91sT6waf-R3KbUWMkrtvuPXkbEyhYQyHTrPWB7Cx8S9rnDsl8-ANQ-1CPExwggchQ.m3u8?token=test
 #EXTINF:-1 #EXTINF:-1 tvg-logo="https://i.imgur.com/mdfiWG9.png" group-title="El Salvador",Canal 3 Impresionante SD
 https://cloud2.streaminglivehd.com:2020/hls/8036/8036.m3u8
 #EXTINF:-1 #EXTINF:-1 tvg-logo="https://i.imgur.com/rdeUErb.png" group-title="El Salvador",Canal 9 [No 24/7]
 https://optitelsm.samnetsv.com/play/a0r5/index.m3u8
-#EXTINF:-1 #EXTINF:-1 tvg-logo="https://i.imgur.com/y2ppMnY.png" group-title="El Salvador",Canal 10 TVES [No 24/7]
+#EXTINF:-1 #EXTINF:-1 tvg-id="Canal10.sv" tvg-logo="https://i.imgur.com/y2ppMnY.png" group-title="El Salvador",Canal 10 TVES [No 24/7]
 https://streamingcws30.com/tves/videotves/playlist.m3u8
 #EXTINF:-1 #EXTINF:-1 tvg-logo="https://i.imgur.com/itqQEux.png" group-title="El Salvador",Canal 11 TuTV HD
 https://stream.giostreaming.app/canal11/canal11.m3u8
 #EXTINF:-1 #EXTINF:-1 tvg-logo="https://i.ibb.co/chDfcdsK/canal-trv-sv.png" group-title="El Salvador",Canal TRV [No 24/7]
 https://stream.ontvmx.com/ontv/CNMLXR0Z6FPtGdjcI4/playlist.m3u8
-#EXTINF:-1 #EXTINF:-1 tvg-logo="https://i.postimg.cc/2jBJB80V/tse3-mm-bing-net-OIP(1).png" group-title="El Salvador",Megavision Canal 19 HD
+#EXTINF:-1 #EXTINF:-1 tvg-id="Canal19.sv" tvg-logo="https://i.postimg.cc/2jBJB80V/tse3-mm-bing-net-OIP(1).png" group-title="El Salvador",Megavision Canal 19 HD
 https://mgvchannel19-ioriver-cdn.encoders.immergo.tv/master.m3u8
-#EXTINF:-1 #EXTINF:-1 tvg-logo="https://i.postimg.cc/nLbfC9t5/tse3-mm-bing-net-OIP.png" group-title="El Salvador",Megavision Canal 21 HD
+#EXTINF:-1 #EXTINF:-1 tvg-id="Canal21.sv" tvg-logo="https://i.postimg.cc/nLbfC9t5/tse3-mm-bing-net-OIP.png" group-title="El Salvador",Megavision Canal 21 HD
 https://mgvchannel21-ioriver-cdn.encoders.immergo.tv/master.m3u8
-#EXTINF:-1 #EXTINF:-1 tvg-logo="https://i.imgur.com/nsXXEUZ.png" group-title="El Salvador",TVO Canal 23 SD [No 24/7][Opc.2]
+#EXTINF:-1 #EXTINF:-1 tvg-id="TVOCanal23.sv" tvg-logo="https://i.imgur.com/nsXXEUZ.png" group-title="El Salvador",TVO Canal 23 SD [No 24/7][Opc.2]
 https://tvo.flynetwifi.com/5crjmr1645tqt71ovagufgc1x3d/playlist.m3u8
 #EXTINF:-1 #EXTINF:-1 tvg-logo="https://i.ibb.co/prNNXx7q/rtv-canal-57-sv.png" group-title="El Salvador",RTV Canal 57 HD [No 24/7]
 https://stream.giostreaming.app/rtvcanal57/rtvcanal57.m3u8
@@ -35,7 +35,7 @@ https://cdn.global.elektamedia.com/live/c7eds/TLMasSV_SantaAna/SA_LIVE_hls_enc/m
 https://stream.castr.com/643880749cf895435bf8eadf/live_d0b3cf70e24111ed8ed2951b4c7d1b75/index.m3u8
 #EXTINF:-1 #EXTINF:-1 tvg-logo="https://wowelsalvador.com/sitepad-data/uploads/2025/11/LOGO-WOW-TV-TU-CANAL-VERDE-DEGRADADO.png" group-title="El Salvador",WOW TV HD
 https://service.cdn-stream.com/wow/wow_tv/playlist.m3u8
-#EXTINF:-1 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/05/Canal-3-Guatemala-en-VIVO-Online-en-directo-1068x601.png" group-title="Guatemala",Canal 3 El Super Canal SD [Geo-blocked]
+#EXTINF:-1 #EXTINF:-1 tvg-id="Canal3.gt" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/05/Canal-3-Guatemala-en-VIVO-Online-en-directo-1068x601.png" group-title="Guatemala",Canal 3 El Super Canal SD [Geo-blocked]
 https://guastream.com:3172/stream/play.m3u8
 #EXTINF:-1 #EXTINF:-1 tvg-id="Canal7-Televisiete.gt" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/05/Televisiete-Guatemala-en-vivo-Online.png" group-title="Guatemala",Canal 7 Televisiete SD [Geo-blocked]
 https://guastream.com:3695/stream/play.m3u8
@@ -105,11 +105,13 @@ https://cdn-us-east-prod-ingest-infra-dacast-com.akamaized.net/f84e45d42c07da1e7
 https://183.giatvcdn.com/giatv/giatv-worldtvgt/worldtvgt/playlist.m3u8
 #EXTINF:-1 #EXTINF:-1 tvg-logo="https://i.imgur.com/2CB5ezq.png" group-title="Honduras",HCH HD (Nacional)
 https://live.streamhch.com/live/streams/hch1.m3u8
-#EXTINF:-1 #EXTINF:-1 tvg-logo="https://i.imgur.com/4hEYFa9.png" group-title="Honduras",Canal 5 El Líder HD (Nacional)
+#EXTINF:-1 #EXTINF:-1 tvg-logo="https://i.imgur.com/2CB5ezq.png" group-title="Honduras",HCH HD (Nacional) [Dailymotion]
+https://www.dailymotion.com/video/x81za5c
+#EXTINF:-1 #EXTINF:-1 tvg-id="Canal5.hn" tvg-logo="https://i.imgur.com/4hEYFa9.png" group-title="Honduras",Canal 5 El Líder HD (Nacional)
 https://mdstrm.com/live-stream-playlist/6287fdc9303e3008289ab711.m3u8
 #EXTINF:-1 #EXTINF:-1 tvg-id="Canal11.hn" tvg-logo="https://i.imgur.com/Sht2Rd4.png" group-title="Honduras",Canal 11 HD (Nacional)
 https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/canal11hn/canal11hn.smil/playlist.m3u8
-#EXTINF:-1 #EXTINF:-1 tvg-logo="https://i.imgur.com/GEyxDnf.png" group-title="Honduras",TSi HD(Nacional)
+#EXTINF:-1 #EXTINF:-1 tvg-id="Telesistema3y7.hn" tvg-logo="https://i.imgur.com/GEyxDnf.png" group-title="Honduras",TSi HD(Nacional)
 https://mdstrm.com/live-stream-playlist/6287fda8ea3b8b397d1ca2ed.m3u8
 #EXTINF:-1 #EXTINF:-1 tvg-id="VTV.hn" tvg-logo="https://i.imgur.com/CsPkwD5.png" group-title="Honduras",VTV SD (Nacional)
 https://ddycmnicl95kp.cloudfront.net/live/tzjntcuz6gj2/master.m3u8
@@ -445,10 +447,6 @@ https://video2.lhdserver.es/cableperu/live.m3u8
 https://live-evg5.tv360.bitel.com.pe/bitel/nativa/playlist.m3u8
 #EXTINF:-1 #EXTINF:-1 tvg-logo="https://i.imgur.com/Y9k9XSO.png" group-title="Perú",Nativa TV HD (Santiago) [Opc.2]
 https://oneplay.iptvperu.tv:1936/static/nativa1.stream/playlist.m3u8
-#EXTINF:-1 #EXTINF:-1 tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/02/17/04/1771276353200/ba02446bf189_480_270.png" group-title="Perú",Once TV Digital
-https://live-evg10.tv360.bitel.com.pe/bitel/canal11/playlist.m3u8
-#EXTINF:-1 #EXTINF:-1 tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/02/17/04/1771276353200/ba02446bf189_480_270.png" group-title="Perú",Once TV Digital [Opc.2]
-https://183.giatvcdn.com/giatv/giatv-ojodigital/ojodigital/playlist.m3u8
 #EXTINF:-1 #EXTINF:-1 tvg-logo="https://i.ibb.co/fV4GrX6B/canal-39-tv.png" group-title="Perú",Canal 39 TV HD (Ica) [No 24/7]
 https://vivatv.juanjuiserver.com:3282/live/canal39live.m3u8
 #EXTINF:-1 #EXTINF:-1 tvg-logo="https://i.imgur.com/FiptbGQ.png" group-title="Perú",Vía Televisión HD [No 24/7] (Tarapoto - San Martín)
@@ -555,7 +553,7 @@ https://v2.tustreaming.cl/chilechannel/index.m3u8
 https://tv.ulagos.cl/web/live.m3u8
 #EXTINF:-1 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/960px-Telefe_%28nuevo_logo%29.png" group-title="Argentina",Telefe HD [Geo-Blocked]
 https://telefe.argtelemax.workers.dev/
-#EXTINF:-1 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/960px-Telefe_%28nuevo_logo%29.png" group-title="Argentina",Telefe SD [Opc.2]
+#EXTINF:-1 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/960px-Telefe_%28nuevo_logo%29.png" group-title="Argentina",Telefe SD
 https://m3u.tvcluboficial.com/free/ReachBot/Kip/874.m3u8
 #EXTINF:-1 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/960px-Telefe_%28nuevo_logo%29.png" group-title="Argentina",Telefe Rosario HD [Dailymotion] (Argentina) [Geo-Blocked]
 https://www.dailymotion.com/video/xaekt76
@@ -616,13 +614,13 @@ https://panel.host-live.com:19360/8012/8012.m3u8
 #EXTINF:-1 #EXTINF:-1 tvg-logo="https://i.imgur.com/88MVgwX.png" group-title="Argentina",Tele Posadas [No 24/7]
 https://iptv.ixfo.com.ar:30443/live/TelePosadasTv/playlist.m3u8
 #EXTINF:-1 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/SNT_LOGO.jpg" group-title="Paraguay",SNT Paraguay HD
-https://tv.mitvparaguay.com/hls?id=snt&device_id=dev-461bff6d-cacc-48ea-94b8-02271afb3525
+https://tv.mitvparaguay.com/hls?id=snt
 #EXTINF:-1 #EXTINF:-1 tvg-logo="https://i.imgur.com/6lVrFvb.png" group-title="Paraguay",Telefuturo Paraguay HD [Geo-Blocked]
 https://zn1tf.desdeparaguay.net/telefuturo/telefuturo_py_alta/playlist.m3u8?admin=tvaccion
 #EXTINF:-1 #EXTINF:-1 tvg-logo="https://i.imgur.com/6lVrFvb.png" group-title="Paraguay",Telefuturo Paraguay HD
 https://rds3tf.desdeparaguay.net/telefuturo/telefuturo_py_alta/chunks.m3u8?admin=tvaccion
 #EXTINF:-1 #EXTINF:-1 tvg-logo="https://i.imgur.com/vEMnZF4.png" group-title="Paraguay",GEN Paraguay SD [Opc.2]
-https://tv.mitvparaguay.com/hls?id=gen&device_id=dev-461bff6d-cacc-48ea-94b8-02271afb3525
+https://tv.mitvparaguay.com/hls?id=gen
 #EXTINF:-1 #EXTINF:-1 tvg-logo="https://i.imgur.com/R9E6jEC.png" group-title="Paraguay" ,Invasiva TV HD
 https://tv-omega-nine.vercel.app/hls/live.m3u8
 #EXTINF:-1 #EXTINF:-1 tvg-logo="https://i.ibb.co/rwkpQx6/unnamed-2.png" group-title="Paraguay" ,Cáritas TV HD
@@ -633,6 +631,8 @@ https://video.hostingcaaguazu.com:19360/delreytv/delreytv.m3u8
 https://copacotf.desdeparaguay.net/latele/latele_py_alta/playlist.m3u8?admin=tvaccion
 #EXTINF:-1 #EXTINF:-1 tvg-id="latele.py" tvg-logo="https://i.imgur.com/Qcf6Qev.png" group-title="Paraguay" ,Latele SD [Opc.2]
 https://rds3tf.desdeparaguay.net/latele/latele_py_baja/playlist.m3u8?admin=tvaccion
+#EXTINF:-1 #EXTINF:-1 tvg-id="AmericaParaguay.py" https://i.imgur.com/0COKxet.png" group-title="Paraguay" ,America TV
+https://tv.mitvparaguay.com/hls?id=americatv
 #EXTINF:-1 #EXTINF:-1 tvg-logo="https://i.imgur.com/kEcOYML.png" group-title="Paraguay" ,Monumental TV HD
 https://copacogen.desdeparaguay.net/monumentaltv/monumentaltv_med/playlist.m3u8?admin=tvaccion
 #EXTINF:-1 #EXTINF:-1 tvg-logo="https://i.imgur.com/kEcOYML.png" group-title="Paraguay" ,Monumental TV HD [Opc.2]
@@ -653,6 +653,8 @@ https://video.hostingcaaguazu.com:19360/tvairepy/tvairepy.m3u8
 https://tigocloud.desdeparaguay.net/800tv/800tv/playlist.m3u8
 #EXTINF:-1 #EXTINF:-1 tvg-id="C9N.py" tvg-logo="https://i.imgur.com/iXkwP31.png" group-title="Paraguay" ,C9N HD [Geo-blocked]
 https://d174axghh54kh0.cloudfront.net/ts:abr.m3u8
+#EXTINF:-1 #EXTINF:-1 tvg-id="C9N.py" tvg-logo="https://i.imgur.com/iXkwP31.png" group-title="Paraguay" ,C9N HD [Opc.3]
+https://tv.mitvparaguay.com/hls?id=c9n
 #EXTINF:-1 #EXTINF:-1 tvg-logo="https://i.imgur.com/tg6EjTU.png" group-title="Paraguay" ,AGR FM TV
 https://tigocloud.desdeparaguay.net/agrtv/agrtv/playlist.m3u8
 #EXTINF:-1 #EXTINF:-1 tvg-logo="" group-title="Paraguay" ,Red Informativa
@@ -669,6 +671,8 @@ https://rds3.desdeparaguay.net/mitv/mitv/playlist.m3u8
 https://video.hostingcaaguazu.com:19360/uniradiotv/uniradiotv.m3u8
 #EXTINF:-1 #EXTINF:-1 tvg-logo="https://i.imgur.com/ah8n7jL.png" group-title="Paraguay"´,Canal Pro HD [No 24/7]
 https://www.desde-paraguay.com/pro.m3u8
+#EXTINF:-1 #EXTINF:-1 tvg-logo="https://i.imgur.com/OqfBMGy.png" group-title="Paraguay" ,ABC TV HD [No 24/7]
+https://tv.mitvparaguay.com/hls?id=abctv
 #EXTINF:-1 #EXTINF:-1 tvg-logo="https://i.imgur.com/oxPEZas.png" group-title="Paraguay" ,En Lengua de Senas TV HD [No 24/7]
 https://cloudtv.streaming.com.py/lenguasdesenas/lenguasdesenas/chunklist.m3u8
 #EXTINF:-1 #EXTINF:-1 tvg-logo="https://i.imgur.com/8IRBA9h.png" group-title="Paraguay" ,Occidental TV HD [No 24/7]
@@ -837,8 +841,6 @@ https://mdstrm.com/live-stream-playlist/691f2aeb5ac95d286c49af8d.m3u8
 https://play.agenciastreaming.com:8081/uniteltv/index.m3u8
 #EXTINF:-1 #EXTINF:-1 tvg-logo="" group-title="Bolivia",Canal 24 Multivision [No 24/7]
 https://183.giatvcdn.com/ssh101/ssh101/canalmulti24/playlist.m3u8
-#EXTINF:-1 #EXTINF:-1 tvg-logo="https://i.imgur.com/I7yB176.png" group-title="Bolivia",Red TV Shop [No 24/7]
-https://master.tucableip.com/redtvshop/index.m3u8
 #EXTINF:-1 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/R/red-uno-de-bolivia-logo-1E61FF5AC3-seeklogo.com.png" group-title="Bolivia",Red Uno HD SCZ [Dailymotion]
 https://www.dailymotion.com/video/xbkgze2
 #EXTINF:-1 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/R/red-uno-de-bolivia-logo-1E61FF5AC3-seeklogo.com.png" group-title="Bolivia",Red Uno HD LPZ [Dailymotion]
@@ -1171,7 +1173,7 @@ https://cdn.global.elektamedia.com/live/c7eds/TLMasSV/SA_LIVE_hls_enc/master.m3u
 https://cdn.global.elektamedia.com/live/c7eds/Primired/SA_LIVE_hls_enc/master.m3u8
 #EXTINF:-1 #EXTINF:-1 tvg-logo="https://neotv.energeek.cl/assets/img/channels/max-anime-3-c.png" group-title="Anime",Max Anime (América Latina)
 https://cdnlive.klicgo.net/maxanime/live/playlist_dvr.m3u8
-#EXTINF:-1 #EXTINF:-1 tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/11/06/23/1793981903574/a81c20e9ef21_480_270.jpeg" group-title="Anime",Anime TV (América Latina)
+#EXTINF:-1 #EXTINF:-1 tvg-id="AZTV" tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/11/06/23/1793981903574/a81c20e9ef21_480_270.jpeg" group-title="Anime",Anime TV (América Latina)
 https://live-evg13.tv360.bitel.com.pe/bitel/animetv/playlist.m3u8
 #EXTINF:-1 #EXTINF:-1 tvg-logo="https://gia.tv/streams/pstream/209474.png?1794536202" group-title="Anime",Delmi
 https://183.giatvcdn.com/giatvplayout7/giatv-209474/playlist.m3u8
@@ -1181,7 +1183,7 @@ https://183.giatvcdn.com/giatvplayout7/giatv-210634/playlist.m3u8
 https://183.giatvcdn.com/giatvplayout7/giatv-210596/playlist.m3u8
 #EXTINF:-1 #EXTINF:-1 tvg-logo="https://janimotion.com/brand/janimotion-mark.svg" group-title="Anime",Janimotion (América Latina)
 https://janimotion.com/hls/janimotion/index.m3u8
-#EXTINF:-1 #EXTINF:-1 tvg-logo="https://web.archive.org/web/20240509182044if_/https://pbs.twimg.com/profile_images/1744338643957780480/24Kv02RD_400x400.jpg" group-title="Anime",Canal Locomotion - Segunda señal [Opc.2][No 24/7]
+#EXTINF:-1 #EXTINF:-1 tvg-logo="https://web.archive.org/web/20240509182044if_/https://pbs.twimg.com/profile_images/1744338643957780480/24Kv02RD_400x400.jpg" group-title="Anime",Canal Locomotion - Segunda señal [No 24/7]
 https://183.giatvcdn.com/giatvplayout7/giatv-210075/playlist.m3u8
 #EXTINF:-1 #EXTINF:-1 tvg-logo="https://serenotv.com/wp-content/uploads/2025/05/anime-presente-150x150.jpg" group-title="Anime",Anime Presente
 https://183.giatvcdn.com/giatvplayout7/giatv-209624/playlist.m3u8

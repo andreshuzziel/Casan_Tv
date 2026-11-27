@@ -36,7 +36,7 @@ Guatevisión SD [Opc.3],Guatemala,http://45.5.118.152:8000/play/a0c0/index.m3u8,
 TV5 HD [No 24/7] (Solola),Guatemala,http://45.5.118.152:8000/play/a09y/index.m3u8,no-https;ip-directa
 Canal 5 HD [No 24/7],Guatemala,http://190.83.9.222:8000/play/ca016/index.m3u8,no-https;ip-directa
 Canal Antigua SD,Guatemala,http://181.119.177.253:8000/play/a03l/index.m3u8,no-https;ip-directa
-Teleflix HD [No 24/7],Guatemala,http://200.35.176.154:8000/play/a04r/index.m3u8,no-https;ip-directa
+Teleflix HD [No 24/7],Guatemala,http://167.250.223.26:9998/play/a04r/index.m3u8,no-https;ip-directa
 Telecable Salcaja,Guatemala,http://186.33.61.182:8000/play/a05p/index.m3u8,no-https;ip-directa
 HCH SD (Nacional) [Opc.2],Honduras,http://200.59.191.177:8000/play/a0m6/index.m3u8?hls,no-https;ip-directa
 Canal 5 El Líder HD (Nacional)[Opc.2],Honduras,http://190.61.101.11:7050/play/a070/index.m3u8?hls,no-https;ip-directa
@@ -47,6 +47,9 @@ Deportes TVC SD [Opc.2],Honduras,http://181.119.177.253:8000/play/a06d/index.m3u
 Deportes TVC HD [Opc.3],Honduras,http://45.167.1.137:8000/play/a02x,no-https;ip-directa
 Telecadena 7y4 SD (Nacional) [Opc.1],Honduras,http://186.33.0.57:8000/play/a04v/index.m3u8,no-https;ip-directa
 Telecadena 7y4 SD (Nacional) [Opc.2],Honduras,http://45.228.234.62:8000/play/a069/index.m3u8,no-https;ip-directa
+Azteca Honduras HD,Honduras,http://168.228.44.241:9997/play/a02k/index.m3u8,no-https;ip-directa
+Azteca Honduras HD [Opc.2],Honduras,http://179.63.148.236:8001/play/a04x/index.m3u8,no-https;ip-directa
+Azteca Honduras HD [Opc.3],Honduras,http://190.97.183.101:8028/play/a16p/index.m3u8,no-https;ip-directa
 Canal 4 Repretel SD  (Nacional)[Opc.2],Costa Rica,http://45.186.106.207:8000/play/a09t/index.m3u8,no-https;ip-directa
 Canal 4 Repretel SD  (Nacional)[Opc.3],Costa Rica,http://45.228.234.62:8000/play/a04w/index.m3u8,no-https;ip-directa
 Canal 6 Repretel SD (Nacional)[Opc.2],Costa Rica,http://186.33.0.57:8000/play/a02o/index.m3u8,no-https;ip-directa
@@ -129,12 +132,11 @@ América Televisión HD,Perú,http://205.235.6.29:8000/play/a0ut/index.m3u8?hls,
 América Televisión HD [Opc.2],Perú,http://181.224.255.210:8001/play/a0pj/index.m3u8?hls,no-https;ip-directa
 América Televisión HD [Opc.3],Perú,http://200.59.191.177:8000/play/a0q0/index.m3u8?hls,no-https;ip-directa
 Willax TV HD (Nacional),Perú,http://181.224.255.210:8001/play/a0s7/index.m3u8?hls,no-https;ip-directa
-Willax TV SD(Nacional)[Opc.2],Perú,http://45.186.254.75:8000/play/a0ex/index.m3u8,no-https;ip-directa
-Willax TV SD(Nacional)[Opc.3],Perú,http://38.224.231.47:8000/play/a06r/index.m3u8,no-https;ip-directa
+Willax TV SD (Nacional) [Opc.2],Perú,http://45.186.254.75:8000/play/a0ex/index.m3u8,no-https;ip-directa
+Willax TV HD (Nacional) [Opc.3],Perú,http://45.173.201.19:5000/play/a00v/index.m3u8,no-https;ip-directa
 Panamericana Televisión HD,Perú,http://181.224.255.210:8001/play/a0s5/index.m3u8?hls,no-https;ip-directa
 Panamericana Televisión SD [Opc.2],Perú,http://181.224.255.210:8001/play/a0r6/index.m3u8?hls,no-https;ip-directa
 Panamericana Televisión SD [Opc.3],Perú,http://181.224.200.5:2277/play/kkio/index.m3u8,no-https;ip-directa
-A1 TV HD [No 24/7][Opc.2],Perú,http://181.224.255.210:8001/play/a0rz/index.m3u8?hls,no-https;ip-directa
 ATV Sur HD (Arequipa / Nacional) [Opc.1],Perú,http://181.224.255.210:8001/play/a0sn/index.m3u8?hls,no-https;ip-directa
 ATV + HD (Arequipa / Nacional) [Opc.1],Perú,http://186.148.196.100:8000/play/a028,no-https;ip-directa
 Tele Lima,Perú,http://181.224.255.210:8001/play/a0rp/index.m3u8?hls,no-https;ip-directa
@@ -152,7 +154,6 @@ Canal 13 HD (Nacional)(Opc.2),Chile,http://201.240.104.137:8000/play/trece/index
 TVN HD (Nacional)[Opc.2],Chile,http://45.173.231.22:8000/play/a06l/index.m3u8,no-https;ip-directa
 TVN HD (Nacional)[Opc.3],Chile,http://190.108.83.69:8000/play/a03f/index.m3u8,no-https;ip-directa
 TVN HD (LOCAL),Chile,http://181.78.121.15:8000/play/a00k/index.m3u8,no-https;ip-directa
-Telefe SD,Argentina,http://45.173.231.22:8000/play/a053/index.m3u8,no-https;ip-directa
 Telefe Buenos Aires HD,Argentina,http://45.134.141.161:2200/ARG/TELEFE_HD/index.m3u8,no-https;ip-directa
 Telefe Internacional SD (Argentina),Argentina,http://190.60.60.114:8000/play/a00r/index.m3u8,no-https;ip-directa
 Telefe Internacional SD (Argentina)[Opc.2],Argentina,http://200.115.120.1:8000/play/ca016/index.m3u8,no-https;ip-directa
@@ -168,7 +169,8 @@ Ciudad Magazine HD (Buenos Aires) [No 24/7] [Opc.2],Argentina,http://190.7.19.20
 Ciudad Magazine HD (Buenos Aires) [No 24/7] [Opc.3],Argentina,http://200.219.40.1:8000/play/a02h/index.m3u8,no-https;ip-directa
 CineAR [Geo-Blocked],Argentina,http://181.209.105.115:2525/play/cinear/index.m3u8,no-https;ip-directa
 CineAR [Opc.2],Argentina,http://200.50.155.180:8010/play/a0h12/index.m3u8,no-https;ip-directa
-SNT Paraguay HD [Opc.2],Paraguay,http://45.170.130.224:8000/play/a013/index.m3u8,no-https;ip-directa
+SNT Paraguay HD [Opc.2],Paraguay,http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/113.m3u8,no-https;ip-directa
+SNT Paraguay HD [Opc.3],Paraguay,http://45.170.130.224:8000/play/a013/index.m3u8,no-https;ip-directa
 GEN Paraguay HD,Paraguay,http://45.170.130.224:8000/play/a04j/index.m3u8,no-https;ip-directa
 Paraguay TV SD [Opc.2],Paraguay,http://45.170.130.224:8000/play/a02r/index.m3u8,no-https;ip-directa
 C9N HD [Opc.2],Paraguay,http://181.79.87.130:8000/play/a0c1/index.m3u8,no-https;ip-directa
@@ -193,6 +195,7 @@ Antena 3[Opc.2],España,http://181.224.255.210:8001/play/a0rc/index.m3u8?hls,no-
 NORTEvisión,España,http://amaru.dyndns.org:8870/0.m3u8,no-https
 Alcarria TV[Opc.2],España,http://217.182.77.27/live/alcarriatv-livestream.m3u8,no-https;ip-directa
 Animash,Anime,http://181.78.121.15:8000/play/a00h/index.m3u8,no-https;ip-directa
+Canal Locomotion - Primera señal [No 24/7],Anime,http://146.19.49.197:81/live/loco.m3u8,no-https;ip-directa
 AnimeZone TV [No 24/7](América Latina),Anime,http://animezonetv.net/hls/stream.m3u8,no-https
 Anime XTV [No 24/7],Anime,http://animezonetv.net:81/live_hls/animetest/index.m3u8,no-https
 Anime XTV [Opc.2][No 24/7],Anime,http://146.19.49.197:81/live/animextv_hi/index.m3u8,no-https;ip-directa
@@ -217,7 +220,6 @@ ENT Drama,Cine / Películas,https://cdn.40mediagroup.com/live/c7eds/ENT_Drama/SA
 ENT Classic,Cine / Películas,https://cdn.40mediagroup.com/live/c7eds/ENT_Classics/SA_LIVE_hls_enc/master.m3u8,vod-no-autorizado
 ENT Life,Cine / Películas,https://cdn.40mediagroup.com/live/c7eds/ENT_Life/SA_LIVE_hls_enc/master.m3u8,vod-no-autorizado
 + Movie Accion,Cine / Películas,https://live-evg13.tv360.bitel.com.pe/bitel/+movieaccion/playlist.m3u8,vod-no-autorizado
-Fillka TV,Cine / Películas,https://live-evg5.tv360.bitel.com.pe/bitel/fillka/playlist.m3u8,vod-no-autorizado
 FMTV Mundo (Cadena Internacional),Cine / Películas,https://s2.tvdatta.com:3307/live/fmtvmatrizlive.m3u8,tv-pago/adulto;vod-no-autorizado
 Ipersonica,Cine / Películas,https://183.giatvcdn.com/ssh101/ssh101/ipersonica/playlist.m3u8,vod-no-autorizado
 Canal Telemax RD [No 24/7] (Rep. Dominicana),Cine / Películas,https://edge.essastream.com/telemax/index.m3u8,vod-no-autorizado
@@ -422,6 +424,7 @@ Panico TV [Opc.3],Cine / Películas Premium,http://186.33.40.97:8789/play/39,no-
 Max Comedy,Cine / Películas Premium,http://179.63.6.216:8000/play/a00p,no-https;ip-directa;vod-no-autorizado
 Comedy Channel,Cine / Películas Premium,http://45.70.201.81:8000/play/a011/index.m3u8,no-https;ip-directa;vod-no-autorizado
 AVI Channel,Cine / Películas Premium,http://181.79.92.47:18000/play/a00g/index.m3u8,no-https;ip-directa;vod-no-autorizado
+CA1,Cine / Películas Premium,http://200.60.124.25:8000/play/a0kp/index.m3u8,no-https;ip-directa;vod-no-autorizado
 Canal Holliwood BR SD,Cine / Películas Premium,http://5.134.87.3:8001/play/a03h/index.m3u8,no-https;ip-directa;vod-no-autorizado
 Canal Holliwood BR HD,Cine / Películas Premium,http://144.64.90.239:8003/play/a00q/index.m3u8,no-https;ip-directa;vod-no-autorizado
 Univision HD [Opc.1],Entretenimiento Premium,http://186.148.196.100:8000/play/a01p,no-https;ip-directa
